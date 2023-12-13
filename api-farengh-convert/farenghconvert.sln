@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "farenghconvert", "farenghconvert\farenghconvert.csproj", "{C18D318F-927D-4D4A-9A9E-F8F2D6465541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1CA9E7A8-A221-4BA5-AA5C-B43F749F9164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18D318F-927D-4D4A-9A9E-F8F2D6465541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18D318F-927D-4D4A-9A9E-F8F2D6465541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18D318F-927D-4D4A-9A9E-F8F2D6465541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18D318F-927D-4D4A-9A9E-F8F2D6465541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA9E7A8-A221-4BA5-AA5C-B43F749F9164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA9E7A8-A221-4BA5-AA5C-B43F749F9164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA9E7A8-A221-4BA5-AA5C-B43F749F9164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA9E7A8-A221-4BA5-AA5C-B43F749F9164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

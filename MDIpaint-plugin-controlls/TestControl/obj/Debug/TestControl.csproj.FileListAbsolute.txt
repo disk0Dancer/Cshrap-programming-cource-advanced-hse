@@ -1,0 +1,13 @@
+D:\untitled folder\paint\TestControl\bin\Debug\TestControl.exe.config
+D:\untitled folder\paint\TestControl\bin\Debug\TestControl.exe
+D:\untitled folder\paint\TestControl\bin\Debug\TestControl.pdb
+D:\untitled folder\paint\TestControl\bin\Debug\ControlsLab.dll
+D:\untitled folder\paint\TestControl\bin\Debug\ControlsLab.pdb
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.csprojAssemblyReference.cache
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.Form1.resources
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.Properties.Resources.resources
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.csproj.GenerateResource.cache
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.csproj.CoreCompileInputs.cache
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.csproj.CopyComplete
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.exe
+D:\untitled folder\paint\TestControl\obj\Debug\TestControl.pdb

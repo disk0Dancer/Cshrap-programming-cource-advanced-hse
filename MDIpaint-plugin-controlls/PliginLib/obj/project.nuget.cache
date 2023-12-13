@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgGji+WI3jz+xi0pBpr0/fy1LK/oJKWHGwOFt2LwsOL20MfiJyF4SPl1+PDc3ZBPYrdkTthe/6cGBF7lg0/vPg==",
+  "success": true,
+  "projectFilePath": "/Volumes/GRDISK/untitled folder/paint/PliginLib/PliginLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

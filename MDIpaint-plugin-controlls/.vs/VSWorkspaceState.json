@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\paint",
+    "\\paint\\bin",
+    "\\paint\\bin\\Debug",
+    "\\PliginLib\\bin",
+    "\\PliginLib\\bin\\Debug",
+    "\\PliginLib\\bin\\Debug\\netstandard2.0",
+    "\\PliginLib\\bin\\Release",
+    "\\PliginLib\\bin\\Release\\netstandard2.0"
+  ],
+  "SelectedNode": "\\paint\\bin\\Debug\\plugins.xml",
+  "PreviewInSolutionExplorer": false
+}

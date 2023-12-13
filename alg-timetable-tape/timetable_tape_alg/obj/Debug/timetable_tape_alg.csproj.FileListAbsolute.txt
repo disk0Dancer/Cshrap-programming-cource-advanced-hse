@@ -1,0 +1,6 @@
+/Users/admin/RiderProjects/timetable_tape_alg/timetable_tape_alg/bin/Debug/timetable_tape_alg.exe
+/Users/admin/RiderProjects/timetable_tape_alg/timetable_tape_alg/bin/Debug/timetable_tape_alg.pdb
+/Users/admin/RiderProjects/timetable_tape_alg/timetable_tape_alg/obj/Debug/timetable_tape_alg.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/timetable_tape_alg/timetable_tape_alg/obj/Debug/timetable_tape_alg.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/timetable_tape_alg/timetable_tape_alg/obj/Debug/timetable_tape_alg.exe
+/Users/admin/RiderProjects/timetable_tape_alg/timetable_tape_alg/obj/Debug/timetable_tape_alg.pdb

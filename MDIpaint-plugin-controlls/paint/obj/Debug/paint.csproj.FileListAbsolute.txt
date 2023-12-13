@@ -1,0 +1,81 @@
+G:\paint\paint\bin\Debug\paint.exe.config
+G:\paint\paint\bin\Debug\paint.exe
+G:\paint\paint\bin\Debug\paint.pdb
+G:\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+G:\paint\paint\obj\Debug\paint.Properties.Resources.resources
+G:\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+G:\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+G:\paint\paint\obj\Debug\paint.exe
+G:\paint\paint\obj\Debug\paint.pdb
+D:\paint\paint\obj\Debug\paint.AboutForm.resources
+D:\paint\paint\obj\Debug\paint.CanvasSizeForm.resources
+D:\paint\paint\obj\Debug\paint.DocumentForm.resources
+D:\paint\paint\obj\Debug\paint.MainForm.resources
+D:\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+D:\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\paint\paint\obj\Debug\paint.exe
+D:\paint\paint\obj\Debug\paint.pdb
+D:\paint\paint\obj\Debug\Paint.ClosingForm.resources
+D:\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+D:\paint\paint\bin\Debug\paint.exe.config
+D:\paint\paint\bin\Debug\paint.exe
+D:\paint\paint\bin\Debug\paint.pdb
+G:\paint\paint\obj\Debug\paint.AboutForm.resources
+G:\paint\paint\obj\Debug\paint.CanvasSizeForm.resources
+G:\paint\paint\obj\Debug\paint.ClosingForm.resources
+G:\paint\paint\obj\Debug\paint.DocumentForm.resources
+G:\paint\paint\obj\Debug\paint.MainForm.resources
+G:\paint\paint\obj\Debug\paint.DocumentForm1.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+F:\untitled folder\paint\paint\obj\Debug\paint.AboutForm.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.CanvasSizeForm.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.ClosingForm.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.DocumentForm1.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.MainForm.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.Properties.Resources.resources
+F:\untitled folder\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+F:\untitled folder\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+F:\untitled folder\paint\paint\obj\Debug\paint.exe
+F:\untitled folder\paint\paint\obj\Debug\paint.pdb
+D:\untitled folder\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+D:\untitled folder\paint\paint\obj\Debug\paint.AboutForm.resources
+D:\untitled folder\paint\paint\obj\Debug\paint.CanvasSizeForm.resources
+D:\untitled folder\paint\paint\obj\Debug\paint.ClosingForm.resources
+D:\untitled folder\paint\paint\obj\Debug\paint.DocumentForm1.resources
+D:\untitled folder\paint\paint\obj\Debug\paint.MainForm.resources
+D:\untitled folder\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\untitled folder\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+D:\untitled folder\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\untitled folder\paint\paint\obj\Debug\paint.exe
+D:\untitled folder\paint\paint\obj\Debug\paint.pdb
+D:\untitled folder\paint\paint\bin\Debug\paint.exe.config
+D:\untitled folder\paint\paint\bin\Debug\paint.exe
+D:\untitled folder\paint\paint\bin\Debug\paint.pdb
+E:\untitled folder\paint\paint\bin\Debug\paint.exe.config
+E:\untitled folder\paint\paint\bin\Debug\paint.exe
+E:\untitled folder\paint\paint\bin\Debug\paint.pdb
+E:\untitled folder\paint\paint\bin\Debug\ControlsLab.dll
+E:\untitled folder\paint\paint\bin\Debug\ControlsLab.pdb
+E:\untitled folder\paint\paint\obj\Debug\paint.csprojAssemblyReference.cache
+E:\untitled folder\paint\paint\obj\Debug\paint.AboutForm.resources
+E:\untitled folder\paint\paint\obj\Debug\paint.CanvasSizeForm.resources
+E:\untitled folder\paint\paint\obj\Debug\paint.ClosingForm.resources
+E:\untitled folder\paint\paint\obj\Debug\paint.DocumentForm1.resources
+E:\untitled folder\paint\paint\obj\Debug\paint.MainForm.resources
+E:\untitled folder\paint\paint\obj\Debug\paint.Properties.Resources.resources
+E:\untitled folder\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+E:\untitled folder\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+E:\untitled folder\paint\paint\obj\Debug\paint.csproj.CopyComplete
+E:\untitled folder\paint\paint\obj\Debug\paint.exe
+E:\untitled folder\paint\paint\obj\Debug\paint.pdb
+D:\untitled folder\paint\paint\bin\Debug\ControlsLab.dll
+D:\untitled folder\paint\paint\bin\Debug\PliginLib.dll
+D:\untitled folder\paint\paint\bin\Debug\System.Drawing.Common.dll
+D:\untitled folder\paint\paint\bin\Debug\Transforms.dll
+D:\untitled folder\paint\paint\bin\Debug\ControlsLab.pdb
+D:\untitled folder\paint\paint\bin\Debug\PliginLib.pdb
+D:\untitled folder\paint\paint\bin\Debug\Transforms.pdb
+D:\untitled folder\paint\paint\bin\Debug\System.Drawing.Common.xml
+D:\untitled folder\paint\paint\obj\Debug\paint.csproj.CopyComplete
+D:\untitled folder\paint\paint\obj\Debug\paint.PluginsForm.resources

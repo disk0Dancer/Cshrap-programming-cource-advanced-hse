@@ -1,0 +1,9 @@
+D:\untitled folder\paint\PliginLib\bin\Debug\netstandard2.0\PliginLib.deps.json
+D:\untitled folder\paint\PliginLib\bin\Debug\netstandard2.0\PliginLib.dll
+D:\untitled folder\paint\PliginLib\obj\Debug\netstandard2.0\PliginLib.csproj.CoreCompileInputs.cache
+D:\untitled folder\paint\PliginLib\obj\Debug\netstandard2.0\PliginLib.AssemblyInfoInputs.cache
+D:\untitled folder\paint\PliginLib\obj\Debug\netstandard2.0\PliginLib.AssemblyInfo.cs
+D:\untitled folder\paint\PliginLib\bin\Debug\netstandard2.0\PliginLib.pdb
+D:\untitled folder\paint\PliginLib\obj\Debug\netstandard2.0\PliginLib.dll
+D:\untitled folder\paint\PliginLib\obj\Debug\netstandard2.0\PliginLib.pdb
+D:\untitled folder\paint\PliginLib\obj\Debug\netstandard2.0\PliginLib.csprojAssemblyReference.cache

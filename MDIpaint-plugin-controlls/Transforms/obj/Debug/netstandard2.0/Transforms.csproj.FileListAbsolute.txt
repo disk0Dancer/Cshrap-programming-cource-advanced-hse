@@ -1,0 +1,12 @@
+D:\untitled folder\paint\Transforms\bin\Debug\netstandard2.0\Transforms.deps.json
+D:\untitled folder\paint\Transforms\bin\Debug\netstandard2.0\Transforms.dll
+D:\untitled folder\paint\Transforms\bin\Debug\netstandard2.0\Transforms.pdb
+D:\untitled folder\paint\Transforms\bin\Debug\netstandard2.0\PliginLib.dll
+D:\untitled folder\paint\Transforms\bin\Debug\netstandard2.0\PliginLib.pdb
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.csprojAssemblyReference.cache
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.csproj.CoreCompileInputs.cache
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.AssemblyInfoInputs.cache
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.AssemblyInfo.cs
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.csproj.CopyComplete
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.dll
+D:\untitled folder\paint\Transforms\obj\Debug\netstandard2.0\Transforms.pdb

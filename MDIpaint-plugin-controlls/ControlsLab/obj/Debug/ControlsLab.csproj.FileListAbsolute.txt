@@ -1,0 +1,16 @@
+D:\untitled folder\paint\ControlsLab\bin\Debug\ControlsLab.dll
+D:\untitled folder\paint\ControlsLab\bin\Debug\ControlsLab.pdb
+D:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.csprojAssemblyReference.cache
+D:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.csproj.CoreCompileInputs.cache
+D:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.dll
+D:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.pdb
+D:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.FilePathSelect.resources
+D:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.csproj.GenerateResource.cache
+E:\untitled folder\paint\ControlsLab\bin\Debug\ControlsLab.dll
+E:\untitled folder\paint\ControlsLab\bin\Debug\ControlsLab.pdb
+E:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.csprojAssemblyReference.cache
+E:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.FilePathSelect.resources
+E:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.csproj.GenerateResource.cache
+E:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.csproj.CoreCompileInputs.cache
+E:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.dll
+E:\untitled folder\paint\ControlsLab\obj\Debug\ControlsLab.pdb

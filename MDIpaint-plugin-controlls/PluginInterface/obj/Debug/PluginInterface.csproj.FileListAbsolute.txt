@@ -1,0 +1,2 @@
+D:\untitled folder\paint\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+D:\untitled folder\paint\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
