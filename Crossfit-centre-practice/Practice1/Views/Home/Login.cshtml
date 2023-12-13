@@ -1,0 +1,31 @@
+@model Practice1.User
+
+@{
+    ViewData["Title"] = "Вход";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="row">
+    <div class="col-md-4">
+        <section>
+            <form id="account" method="post" >
+                <hr/>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-floating">
+                    <input asp-for="Email" class="form-control" autocomplete="email" aria-required="true" name="Email"/>
+                    <label asp-for="Email" class="form-label"></label>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating">
+                    <input asp-for="PasswordHash" class="form-control" autocomplete="password" aria-required="true" name="Password"/>
+                    <label asp-for="PasswordHash" class="form-label"></label>
+                    <span asp-validation-for="PasswordHash" class="text-danger"></span>
+                </div>
+                <div>
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Вход</button>
+                </div>
+
+            </form>
+        </section>
+    </div>
+</div>

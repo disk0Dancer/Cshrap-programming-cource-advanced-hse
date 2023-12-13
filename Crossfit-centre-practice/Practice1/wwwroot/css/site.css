@@ -1,0 +1,244 @@
+/* Общие стили */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333333;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Стиль заголовков */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: #007bff;
+}
+
+/* Стиль ссылок */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Стиль кнопок */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+/* Стиль таблиц */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #dddddd;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}
+
+/* Стиль формы */
+.form-group {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+
+/* Стиль сообщений об ошибках */
+.field-validation-error {
+  color: #ff0000;
+}
+
+/* Стиль CRUD-страниц */
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 24px;
+}
+
+.card-body {
+  margin-bottom: 20px;
+}
+
+/* Стиль навигационного меню */
+.navbar {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.navbar-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.navbar-nav li a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-nav li a:hover {
+  background-color: #0056b3;
+}
+
+/* Дополнительный стиль для информационной системы кроссфит центра */
+.container {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 24px;
+}
+
+.card-body {
+  margin-bottom: 20px;
+}
+
+/* Добавьте свои дополнительные стили здесь */
+
+/* Стиль более яркого и современного вида */
+body {
+  background-color: #f5f5f5;
+}
+
+.container {
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.card-body {
+  margin-bottom: 20px;
+}
+
+.navbar {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.navbar-nav li a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-nav li a:hover {
+  background-color: #0056b3;
+}

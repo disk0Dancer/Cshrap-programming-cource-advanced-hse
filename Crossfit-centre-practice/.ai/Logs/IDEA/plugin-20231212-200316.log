@@ -1,0 +1,4 @@
+2023-12-12T15:03:16.697Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state ENABLED
+2023-12-12T15:03:16.708Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project Practice1
+2023-12-12T15:03:17.080Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2023-12-12T15:03:17.095Z [ctionsUtilsKt.updateDaemonCodeAnalyzerForOpenFiles] INFO Update daemon code analyzer

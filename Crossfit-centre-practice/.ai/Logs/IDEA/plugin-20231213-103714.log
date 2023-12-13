@@ -1,0 +1,18 @@
+2023-12-13T05:37:14.805Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state DISABLED
+2023-12-13T05:37:14.807Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project Practice1
+2023-12-13T05:37:14.810Z [ojectContextInitializer.createInfrastructureFacade] INFO isInfrastructureDebug: false
+2023-12-13T05:37:14.812Z [ojectContextInitializer.createInfrastructureFacade] INFO Use port: 55175
+2023-12-13T05:37:14.812Z [ProjectContextInitializer.initializeProjectContext] INFO Plugin context initialized
+2023-12-13T05:37:14.813Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO initializing infrastructure
+2023-12-13T05:37:14.885Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2023-12-13T05:37:14.894Z [ctionsUtilsKt.updateDaemonCodeAnalyzerForOpenFiles] INFO Update daemon code analyzer
+2023-12-13T05:37:17.648Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2023-12-13T05:37:18.277Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2023-12-13T05:37:18.279Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2023-12-13T05:37:18.420Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization
+2023-12-13T05:37:21.753Z [.ptsecurity.aiintellij.services.ScanRunner.runScan] INFO Start scanning
+2023-12-13T06:13:11.840Z [intellij.services.ScanRunner.handleScanDoneMessage] INFO Scanning was finished
+2023-12-13T06:19:35.924Z [.ptsecurity.aiintellij.services.ScanRunner.runScan] INFO Start scanning
+2023-12-13T06:19:38.455Z [intellij.services.ScanRunner.handleScanDoneMessage] INFO Scanning was finished
+2023-12-13T06:19:44.054Z [.ptsecurity.aiintellij.services.ScanRunner.runScan] INFO Start scanning
+2023-12-13T06:24:41.460Z [intellij.services.ScanRunner.handleScanDoneMessage] INFO Scanning was finished

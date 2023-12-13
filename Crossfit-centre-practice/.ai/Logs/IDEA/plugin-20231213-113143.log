@@ -1,0 +1,13 @@
+2023-12-13T06:31:43.486Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state ENABLED
+2023-12-13T06:31:43.496Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project Practice1
+2023-12-13T06:31:43.558Z [ojectContextInitializer.createInfrastructureFacade] INFO isInfrastructureDebug: false
+2023-12-13T06:31:43.559Z [ojectContextInitializer.createInfrastructureFacade] INFO Use port: 56032
+2023-12-13T06:31:43.578Z [ProjectContextInitializer.initializeProjectContext] INFO Plugin context initialized
+2023-12-13T06:31:43.579Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO initializing infrastructure
+2023-12-13T06:31:45.522Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2023-12-13T06:31:52.103Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2023-12-13T06:31:54.343Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2023-12-13T06:31:54.436Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2023-12-13T06:31:55.568Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization
+2023-12-13T06:31:56.434Z [ctionsUtilsKt.updateDaemonCodeAnalyzerForOpenFiles] INFO Update daemon code analyzer
+2023-12-13T07:38:13.711Z [tializer$initializeInfrastructureInstance$2.invoke] WARN kotlinx.coroutines.channels.ClosedReceiveChannelException: Unexpected EOF: expected 19 more bytes

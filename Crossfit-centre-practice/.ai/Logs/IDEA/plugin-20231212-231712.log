@@ -1,0 +1,1294 @@
+2023-12-12T18:17:12.971Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state DISABLED
+2023-12-12T18:17:12.972Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project Practice1
+2023-12-12T18:17:12.973Z [ojectContextInitializer.createInfrastructureFacade] INFO isInfrastructureDebug: false
+2023-12-12T18:17:12.973Z [ojectContextInitializer.createInfrastructureFacade] INFO Use port: 53945
+2023-12-12T18:17:12.974Z [ProjectContextInitializer.initializeProjectContext] INFO Plugin context initialized
+2023-12-12T18:17:12.974Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2023-12-12T18:17:12.974Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO initializing infrastructure
+2023-12-12T18:17:23.027Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2023-12-12T18:17:23.030Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2023-12-12T18:17:23.039Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
+2023-12-12T18:17:24.307Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2023-12-12T18:17:24.326Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2023-12-12T18:17:24.635Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache mod_negotiation resource location disclosure
+2023-12-12T18:17:24.635Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory copying
+2023-12-12T18:17:24.636Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory creation
+2023-12-12T18:17:24.636Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory deletion
+2023-12-12T18:17:24.636Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory listing
+2023-12-12T18:17:24.637Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory moving
+2023-12-12T18:17:24.637Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file copying
+2023-12-12T18:17:24.637Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file creation
+2023-12-12T18:17:24.638Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file deletion
+2023-12-12T18:17:24.638Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file modification
+2023-12-12T18:17:24.638Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file moving
+2023-12-12T18:17:24.638Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file reading
+2023-12-12T18:17:24.639Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cookie injection
+2023-12-12T18:17:24.639Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for credentials brute-force
+2023-12-12T18:17:24.639Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cross-site request forgery
+2023-12-12T18:17:24.640Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cross-site scripting
+2023-12-12T18:17:24.640Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor injection
+2023-12-12T18:17:24.640Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor sqli
+2023-12-12T18:17:24.641Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for default
+2023-12-12T18:17:24.641Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for denial of service
+2023-12-12T18:17:24.641Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deserialization of untrusted data
+2023-12-12T18:17:24.642Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for df
+2023-12-12T18:17:24.642Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for djangoorminjection
+2023-12-12T18:17:24.644Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dll injection
+2023-12-12T18:17:24.644Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for double free
+2023-12-12T18:17:24.644Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dynamic code injection
+2023-12-12T18:17:24.645Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dynamic query injection
+2023-12-12T18:17:24.645Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for external control of configuration
+2023-12-12T18:17:24.645Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for fingerprinting
+2023-12-12T18:17:24.645Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for format string
+2023-12-12T18:17:24.646Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded password
+2023-12-12T18:17:24.646Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for heap overflow
+2023-12-12T18:17:24.646Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for http header injection
+2023-12-12T18:17:24.647Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for http request splitting
+2023-12-12T18:17:24.647Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for http response splitting
+2023-12-12T18:17:24.648Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper access control taint
+2023-12-12T18:17:24.648Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper resource shutdown or release
+2023-12-12T18:17:24.648Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure
+2023-12-12T18:17:24.649Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for injection
+2023-12-12T18:17:24.649Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure direct object references
+2023-12-12T18:17:24.649Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient session expiration
+2023-12-12T18:17:24.650Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for integer overflow
+2023-12-12T18:17:24.650Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ldap injection
+2023-12-12T18:17:24.650Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for like injection
+2023-12-12T18:17:24.651Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for linq injection
+2023-12-12T18:17:24.651Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for local file inclusion
+2023-12-12T18:17:24.652Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for log forging
+2023-12-12T18:17:24.652Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nosql injection
+2023-12-12T18:17:24.652Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for null dereference
+2023-12-12T18:17:24.653Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for object injection
+2023-12-12T18:17:24.653Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for open redirect
+2023-12-12T18:17:24.653Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for orm injection
+2023-12-12T18:17:24.653Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for os commanding
+2023-12-12T18:17:24.654Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for padding oracle attack
+2023-12-12T18:17:24.654Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for path traversal
+2023-12-12T18:17:24.655Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for persistent cookie exposing
+2023-12-12T18:17:24.655Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for potential path traversal
+2023-12-12T18:17:24.655Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for process control
+2023-12-12T18:17:24.655Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for redos
+2023-12-12T18:17:24.656Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for remote code execution
+2023-12-12T18:17:24.656Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for remote file inclusion
+2023-12-12T18:17:24.656Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for resource exhaustion
+2023-12-12T18:17:24.657Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for resource location brute-force
+2023-12-12T18:17:24.657Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server-side request forgery
+2023-12-12T18:17:24.659Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server-side template injection
+2023-12-12T18:17:24.660Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serverfingerprinting
+2023-12-12T18:17:24.660Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for session management weakness
+2023-12-12T18:17:24.660Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for shellshock
+2023-12-12T18:17:24.661Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for smtp header injection
+2023-12-12T18:17:24.661Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sql injection
+2023-12-12T18:17:24.661Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sqli
+2023-12-12T18:17:24.662Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for stack overflow
+2023-12-12T18:17:24.662Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uaf
+2023-12-12T18:17:24.662Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled data manipulation
+2023-12-12T18:17:24.663Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled env var modification
+2023-12-12T18:17:24.663Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unrestricted file upload
+2023-12-12T18:17:24.663Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use after free
+2023-12-12T18:17:24.664Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for webview xss taint
+2023-12-12T18:17:24.664Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xml entity expansion
+2023-12-12T18:17:24.664Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xml external entity
+2023-12-12T18:17:24.665Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xpath injection
+2023-12-12T18:17:24.665Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xquery injection
+2023-12-12T18:17:24.665Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 100
+2023-12-12T18:17:24.665Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 101
+2023-12-12T18:17:24.666Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 102
+2023-12-12T18:17:24.666Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 103
+2023-12-12T18:17:24.666Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 104
+2023-12-12T18:17:24.667Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 105
+2023-12-12T18:17:24.667Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 107
+2023-12-12T18:17:24.667Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 108
+2023-12-12T18:17:24.668Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 109
+2023-12-12T18:17:24.668Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 111
+2023-12-12T18:17:24.668Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 113
+2023-12-12T18:17:24.669Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 114
+2023-12-12T18:17:24.669Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 116
+2023-12-12T18:17:24.669Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 117
+2023-12-12T18:17:24.670Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 118
+2023-12-12T18:17:24.670Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 120
+2023-12-12T18:17:24.670Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 122
+2023-12-12T18:17:24.671Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 123
+2023-12-12T18:17:24.671Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 124
+2023-12-12T18:17:24.671Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 125
+2023-12-12T18:17:24.671Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 127
+2023-12-12T18:17:24.672Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 128
+2023-12-12T18:17:24.672Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 129
+2023-12-12T18:17:24.672Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 130
+2023-12-12T18:17:24.673Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 135
+2023-12-12T18:17:24.673Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 138
+2023-12-12T18:17:24.673Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 139
+2023-12-12T18:17:24.674Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 140
+2023-12-12T18:17:24.674Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 141
+2023-12-12T18:17:24.674Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 142
+2023-12-12T18:17:24.674Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 144
+2023-12-12T18:17:24.675Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 145
+2023-12-12T18:17:24.675Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 146
+2023-12-12T18:17:24.675Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 147
+2023-12-12T18:17:24.676Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 148
+2023-12-12T18:17:24.676Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 149
+2023-12-12T18:17:24.676Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 150
+2023-12-12T18:17:24.677Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 151
+2023-12-12T18:17:24.677Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 152
+2023-12-12T18:17:24.678Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 153
+2023-12-12T18:17:24.678Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 154
+2023-12-12T18:17:24.679Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 156
+2023-12-12T18:17:24.680Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 157
+2023-12-12T18:17:24.680Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 158
+2023-12-12T18:17:24.680Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 159
+2023-12-12T18:17:24.681Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 160
+2023-12-12T18:17:24.681Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 161
+2023-12-12T18:17:24.682Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 162
+2023-12-12T18:17:24.682Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 163
+2023-12-12T18:17:24.685Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 164
+2023-12-12T18:17:24.686Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 165
+2023-12-12T18:17:24.686Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 200
+2023-12-12T18:17:24.686Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24544
+2023-12-12T18:17:24.687Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24545
+2023-12-12T18:17:24.687Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24546
+2023-12-12T18:17:24.688Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24547
+2023-12-12T18:17:24.688Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24548
+2023-12-12T18:17:24.688Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24549
+2023-12-12T18:17:24.689Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24550
+2023-12-12T18:17:24.689Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24551
+2023-12-12T18:17:24.689Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24552
+2023-12-12T18:17:24.690Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24553
+2023-12-12T18:17:24.690Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24554
+2023-12-12T18:17:24.690Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24555
+2023-12-12T18:17:24.690Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24556
+2023-12-12T18:17:24.691Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24557
+2023-12-12T18:17:24.691Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24558
+2023-12-12T18:17:24.691Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24559
+2023-12-12T18:17:24.692Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24560
+2023-12-12T18:17:24.692Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24561
+2023-12-12T18:17:24.693Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24562
+2023-12-12T18:17:24.693Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24563
+2023-12-12T18:17:24.693Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24564
+2023-12-12T18:17:24.694Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24565
+2023-12-12T18:17:24.694Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24566
+2023-12-12T18:17:24.695Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24567
+2023-12-12T18:17:24.695Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24568
+2023-12-12T18:17:24.695Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 305
+2023-12-12T18:17:24.696Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 96
+2023-12-12T18:17:24.696Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 97
+2023-12-12T18:17:24.697Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 98
+2023-12-12T18:17:24.697Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 99
+2023-12-12T18:17:24.697Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside addeventlistener
+2023-12-12T18:17:24.698Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside attachevent
+2023-12-12T18:17:24.698Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside createattribute
+2023-12-12T18:17:24.703Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside element event
+2023-12-12T18:17:24.703Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside setattribute
+2023-12-12T18:17:24.703Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside setattributens
+2023-12-12T18:17:24.704Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for buffer overflow
+2023-12-12T18:17:24.704Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for buffer overflow in python
+2023-12-12T18:17:24.704Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for buffer overflow pm
+2023-12-12T18:17:24.705Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for class defines clone but not implement cloneable
+2023-12-12T18:17:24.705Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for csrf protection disabled
+2023-12-12T18:17:24.705Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor snarfing plsql
+2023-12-12T18:17:24.706Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor snarfing tsql
+2023-12-12T18:17:24.706Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dangerous function plsql
+2023-12-12T18:17:24.706Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dangerous function tsql
+2023-12-12T18:17:24.707Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for debug information leakage
+2023-12-12T18:17:24.707Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for debug mode python
+2023-12-12T18:17:24.707Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deprecated functions objc
+2023-12-12T18:17:24.708Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deserialization of untrusted data pm
+2023-12-12T18:17:24.709Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deserialization of untrusted data pm python
+2023-12-12T18:17:24.709Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for detection of error condition without action
+2023-12-12T18:17:24.709Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for direct use of threads
+2023-12-12T18:17:24.710Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for directorytraversalcreatereadstream
+2023-12-12T18:17:24.710Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for directorytraversalreadfile
+2023-12-12T18:17:24.711Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for disabling ssl certificate checks
+2023-12-12T18:17:24.711Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for disabling ssl certificate checks c
+2023-12-12T18:17:24.711Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for disabling ssl-tls certificate checks go
+2023-12-12T18:17:24.712Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for divide by zero
+2023-12-12T18:17:24.712Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification contextual fragment
+2023-12-12T18:17:24.712Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification html tag
+2023-12-12T18:17:24.713Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification selected position
+2023-12-12T18:17:24.713Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification string inside document
+2023-12-12T18:17:24.713Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for download of code without integrity check
+2023-12-12T18:17:24.714Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for embedded malicious code
+2023-12-12T18:17:24.714Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for empty default exception handler
+2023-12-12T18:17:24.714Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for erroneous null comparison
+2023-12-12T18:17:24.715Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for exposure of data element to wrong session
+2023-12-12T18:17:24.715Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for exposure of system data to an unauthorized control sphere
+2023-12-12T18:17:24.715Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for external control of file name or path
+2023-12-12T18:17:24.716Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for file snarfing plsql
+2023-12-12T18:17:24.716Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for format string pm
+2023-12-12T18:17:24.716Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for forwarding via location
+2023-12-12T18:17:24.717Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for forwarding via location function
+2023-12-12T18:17:24.717Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for forwarding via opening new tab
+2023-12-12T18:17:24.717Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ftpusage
+2023-12-12T18:17:24.718Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for go weak cryptographic hash
+2023-12-12T18:17:24.718Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded initialization vector
+2023-12-12T18:17:24.719Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded key
+2023-12-12T18:17:24.720Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded password kotlin
+2023-12-12T18:17:24.720Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded password pm
+2023-12-12T18:17:24.721Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded pbkdf password
+2023-12-12T18:17:24.721Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for headerinjection
+2023-12-12T18:17:24.721Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper access control
+2023-12-12T18:17:24.722Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper access control c
+2023-12-12T18:17:24.722Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper certificate validation
+2023-12-12T18:17:24.722Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper check for unusual or exceptional conditions
+2023-12-12T18:17:24.723Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improperly implemented security check for standard
+2023-12-12T18:17:24.723Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for include interface ssl
+2023-12-12T18:17:24.723Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource
+2023-12-12T18:17:24.723Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource 1
+2023-12-12T18:17:24.724Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource go
+2023-12-12T18:17:24.726Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource java
+2023-12-12T18:17:24.728Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect unix api using
+2023-12-12T18:17:24.737Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect usage of seeds in pseudo-random number generator
+2023-12-12T18:17:24.737Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrectpermissionassignmentphp
+2023-12-12T18:17:24.737Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure pm
+2023-12-12T18:17:24.738Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through an error message
+2023-12-12T18:17:24.738Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through comments
+2023-12-12T18:17:24.738Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through persistent cookies
+2023-12-12T18:17:24.739Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through persistent cookies 1
+2023-12-12T18:17:24.739Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through static content
+2023-12-12T18:17:24.755Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for informationexposureviaexception
+2023-12-12T18:17:24.757Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cipher key export
+2023-12-12T18:17:24.758Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure connection protocol
+2023-12-12T18:17:24.758Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cookie 1
+2023-12-12T18:17:24.759Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cookie 2
+2023-12-12T18:17:24.760Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cookie scope
+2023-12-12T18:17:24.762Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure data storage
+2023-12-12T18:17:24.762Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure data storage objc simple
+2023-12-12T18:17:24.763Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure network binding
+2023-12-12T18:17:24.763Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure randomness ojbc
+2023-12-12T18:17:24.764Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure randomness plsql
+2023-12-12T18:17:24.765Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure randomness tsql
+2023-12-12T18:17:24.766Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure rsa padding
+2023-12-12T18:17:24.766Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure rsa padding 1
+2023-12-12T18:17:24.766Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure ssl connection
+2023-12-12T18:17:24.767Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure ssl connection 1
+2023-12-12T18:17:24.768Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure ssl protocol
+2023-12-12T18:17:24.769Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure transport java
+2023-12-12T18:17:24.770Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure usage of jinja templates
+2023-12-12T18:17:24.775Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure usage of mako templates
+2023-12-12T18:17:24.776Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure validation functions
+2023-12-12T18:17:24.776Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure validation functions 1
+2023-12-12T18:17:24.778Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure work with temporary files
+2023-12-12T18:17:24.778Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecureevalpython
+2023-12-12T18:17:24.778Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient cors policy
+2023-12-12T18:17:24.779Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient encryption key length
+2023-12-12T18:17:24.779Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient encryption key length 1
+2023-12-12T18:17:24.779Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient key size go
+2023-12-12T18:17:24.780Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient logging&monitoring
+2023-12-12T18:17:24.780Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient session expiration pm
+2023-12-12T18:17:24.780Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficientencryptionkeylength
+2023-12-12T18:17:24.782Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for integer overflow pm
+2023-12-12T18:17:24.782Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery function that adds element
+2023-12-12T18:17:24.782Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery function that replaces element
+2023-12-12T18:17:24.783Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery html inside dom
+2023-12-12T18:17:24.783Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery unsafe functions for dom
+2023-12-12T18:17:24.783Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery wrap element to html
+2023-12-12T18:17:24.783Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for json-test
+2023-12-12T18:17:24.783Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lack of the host key verification go
+2023-12-12T18:17:24.784Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for least privilege violation
+2023-12-12T18:17:24.790Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for leftover debug code
+2023-12-12T18:17:24.791Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for marksafepython
+2023-12-12T18:17:24.794Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for memory leak
+2023-12-12T18:17:24.794Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for method without super clone
+2023-12-12T18:17:24.795Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for method without super finalize
+2023-12-12T18:17:24.795Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for missing auth localized reason
+2023-12-12T18:17:24.795Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for missing encryption of sensitive data
+2023-12-12T18:17:24.796Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for none
+2023-12-12T18:17:24.796Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for notlsreject
+2023-12-12T18:17:24.796Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nslog using
+2023-12-12T18:17:24.796Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for null dereference pattern
+2023-12-12T18:17:24.811Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for null pbkdf password
+2023-12-12T18:17:24.811Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for obsolete function
+2023-12-12T18:17:24.812Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for openredirect
+2023-12-12T18:17:24.812Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for overly broad grant
+2023-12-12T18:17:24.812Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for override equals method without hashcode
+2023-12-12T18:17:24.813Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for pattern matching
+2023-12-12T18:17:24.813Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php pm sensitive cookie in https session without ‘secure’ attribute
+2023-12-12T18:17:24.813Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for plaintext storage of a password
+2023-12-12T18:17:24.814Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for plaintext storage of a password 1
+2023-12-12T18:17:24.814Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for play 1 html xss
+2023-12-12T18:17:24.814Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for play 2 html xss
+2023-12-12T18:17:24.815Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for poor logging prictice logger
+2023-12-12T18:17:24.815Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for poor logging prictice system
+2023-12-12T18:17:24.815Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for possible rce through sql injection
+2023-12-12T18:17:24.815Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for private array typed field returned from a public method
+2023-12-12T18:17:24.816Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for public data assigned to private array typed field
+2023-12-12T18:17:24.816Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for python weak cryptographic hash
+2023-12-12T18:17:24.816Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for python2input
+2023-12-12T18:17:24.817Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for pythonassertion
+2023-12-12T18:17:24.842Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for reflectedcrosssitescripting
+2023-12-12T18:17:24.844Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for reliance on dns lookups in a security decision
+2023-12-12T18:17:24.845Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for return of stack variable address
+2023-12-12T18:17:24.846Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for reversible one way hash
+2023-12-12T18:17:24.846Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sensitive cookie in https session without ‘secure’ attribute
+2023-12-12T18:17:24.846Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sensitive cookie in https session without httponly attribute
+2023-12-12T18:17:24.846Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sensitive cookie in https session without secure attribute
+2023-12-12T18:17:24.847Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectioneval
+2023-12-12T18:17:24.847Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionfunction
+2023-12-12T18:17:24.847Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionsetinterval
+2023-12-12T18:17:24.848Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionsettimeout
+2023-12-12T18:17:24.860Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionyaml
+2023-12-12T18:17:24.861Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ssl configuration flaws
+2023-12-12T18:17:24.861Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for static random number generator
+2023-12-12T18:17:24.861Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for time of check time of use race condition
+2023-12-12T18:17:24.861Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for trust boundary violation
+2023-12-12T18:17:24.862Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for type confusion
+2023-12-12T18:17:24.862Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled memory allocation
+2023-12-12T18:17:24.862Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled recursion
+2023-12-12T18:17:24.863Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unreachable code
+2023-12-12T18:17:24.863Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsafe cross-origin resource sharing
+2023-12-12T18:17:24.863Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsafe reflection
+2023-12-12T18:17:24.863Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsalted one way hash
+2023-12-12T18:17:24.864Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsalted one way hash 1
+2023-12-12T18:17:24.864Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsaltedonewayhash
+2023-12-12T18:17:24.864Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unused var
+2023-12-12T18:17:24.865Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for urllibusagepython
+2023-12-12T18:17:24.865Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use broken crypto
+2023-12-12T18:17:24.865Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm
+2023-12-12T18:17:24.866Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 1
+2023-12-12T18:17:24.872Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 2
+2023-12-12T18:17:24.873Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 3
+2023-12-12T18:17:24.873Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 4
+2023-12-12T18:17:24.873Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 5
+2023-12-12T18:17:24.874Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 6
+2023-12-12T18:17:24.874Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm go
+2023-12-12T18:17:24.874Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of function with inconsistent implementations
+2023-12-12T18:17:24.875Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of hardcoded cryptographic key
+2023-12-12T18:17:24.875Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of insufficiently random values
+2023-12-12T18:17:24.875Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of insufficiently random values 1
+2023-12-12T18:17:24.875Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of insufficiently random values 2
+2023-12-12T18:17:24.876Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of nullpointerexception catch
+2023-12-12T18:17:24.876Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of obsolete function 1
+2023-12-12T18:17:24.876Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of system exit
+2023-12-12T18:17:24.876Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of uninitialized variable
+2023-12-12T18:17:24.876Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for user driven insecure hash algorithm
+2023-12-12T18:17:24.877Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for user driven insecure hash algorithm 1
+2023-12-12T18:17:24.877Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for vulnerable template module
+2023-12-12T18:17:24.878Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto api objc
+2023-12-12T18:17:24.878Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto hash api objc
+2023-12-12T18:17:24.878Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto iv objc
+2023-12-12T18:17:24.879Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto key objc
+2023-12-12T18:17:24.879Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic algorithm 1
+2023-12-12T18:17:24.879Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic hash
+2023-12-12T18:17:24.879Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic hash plsql
+2023-12-12T18:17:24.880Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic hash tsql
+2023-12-12T18:17:24.880Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak hmac key objc
+2023-12-12T18:17:24.880Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak password requirements
+2023-12-12T18:17:24.880Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak pbkdf salt
+2023-12-12T18:17:24.881Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak rsa objc
+2023-12-12T18:17:24.881Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weakhashcrypto
+2023-12-12T18:17:24.881Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weakhashcryptojs
+2023-12-12T18:17:24.881Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for webforms validaterequest
+2023-12-12T18:17:24.856Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache mod_negotiation resource location disclosure
+2023-12-12T18:17:24.882Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for webview xss
+2023-12-12T18:17:24.884Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xml external entity pm
+2023-12-12T18:17:24.885Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xss protection disabled
+2023-12-12T18:17:24.885Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for yaml load
+2023-12-12T18:17:24.888Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess addhandler
+2023-12-12T18:17:24.884Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory copying
+2023-12-12T18:17:24.888Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess addtype
+2023-12-12T18:17:24.889Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess options
+2023-12-12T18:17:24.889Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess php_value
+2023-12-12T18:17:24.891Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess serversignature
+2023-12-12T18:17:24.891Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:allowbackup
+2023-12-12T18:17:24.891Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:debuggable
+2023-12-12T18:17:24.891Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:exported
+2023-12-12T18:17:24.892Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:exported[provider]
+2023-12-12T18:17:24.892Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:protectionlevel
+2023-12-12T18:17:24.892Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:scheme
+2023-12-12T18:17:24.888Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory creation
+2023-12-12T18:17:24.892Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_networksecurityconfig.xml @src
+2023-12-12T18:17:24.895Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf addhandler
+2023-12-12T18:17:24.896Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf addtype
+2023-12-12T18:17:24.896Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf loadmodule
+2023-12-12T18:17:24.896Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf options
+2023-12-12T18:17:24.897Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf php_value
+2023-12-12T18:17:24.897Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf serversignature
+2023-12-12T18:17:24.897Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf servertokens
+2023-12-12T18:17:24.895Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory deletion
+2023-12-12T18:17:24.900Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory listing
+2023-12-12T18:17:24.901Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary directory moving
+2023-12-12T18:17:24.902Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file copying
+2023-12-12T18:17:24.902Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file creation
+2023-12-12T18:17:24.904Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file deletion
+2023-12-12T18:17:24.904Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file modification
+2023-12-12T18:17:24.905Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file moving
+2023-12-12T18:17:24.905Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for arbitrary file reading
+2023-12-12T18:17:24.905Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cookie injection
+2023-12-12T18:17:24.905Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for credentials brute-force
+2023-12-12T18:17:24.906Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cross-site request forgery
+2023-12-12T18:17:24.906Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cross-site scripting
+2023-12-12T18:17:24.906Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor injection
+2023-12-12T18:17:24.907Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor sqli
+2023-12-12T18:17:24.907Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for default
+2023-12-12T18:17:24.908Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for denial of service
+2023-12-12T18:17:24.909Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deserialization of untrusted data
+2023-12-12T18:17:24.900Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf traceenable
+2023-12-12T18:17:24.911Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for applicationhost.config @accesspolicy
+2023-12-12T18:17:24.909Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for df
+2023-12-12T18:17:24.911Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for applicationhost.config @notlistedisapisallowed
+2023-12-12T18:17:24.913Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for applicationhost.config @username
+2023-12-12T18:17:24.913Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf arbitrary file upload file_uploads
+2023-12-12T18:17:24.913Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability http-only
+2023-12-12T18:17:24.914Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability httponlycookies
+2023-12-12T18:17:24.912Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for djangoorminjection
+2023-12-12T18:17:24.914Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dll injection
+2023-12-12T18:17:24.915Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for double free
+2023-12-12T18:17:24.915Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dynamic code injection
+2023-12-12T18:17:24.915Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dynamic query injection
+2023-12-12T18:17:24.915Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for external control of configuration
+2023-12-12T18:17:24.916Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for fingerprinting
+2023-12-12T18:17:24.916Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for format string
+2023-12-12T18:17:24.916Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded password
+2023-12-12T18:17:24.916Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for heap overflow
+2023-12-12T18:17:24.917Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for http header injection
+2023-12-12T18:17:24.917Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for http request splitting
+2023-12-12T18:17:24.917Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for http response splitting
+2023-12-12T18:17:24.917Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper access control taint
+2023-12-12T18:17:24.918Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper resource shutdown or release
+2023-12-12T18:17:24.919Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure
+2023-12-12T18:17:24.920Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for injection
+2023-12-12T18:17:24.920Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure direct object references
+2023-12-12T18:17:24.921Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient session expiration
+2023-12-12T18:17:24.921Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for integer overflow
+2023-12-12T18:17:24.921Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ldap injection
+2023-12-12T18:17:24.922Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for like injection
+2023-12-12T18:17:24.922Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for linq injection
+2023-12-12T18:17:24.922Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for local file inclusion
+2023-12-12T18:17:24.922Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for log forging
+2023-12-12T18:17:24.923Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nosql injection
+2023-12-12T18:17:24.923Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for null dereference
+2023-12-12T18:17:24.923Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for object injection
+2023-12-12T18:17:24.924Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for open redirect
+2023-12-12T18:17:24.924Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for orm injection
+2023-12-12T18:17:24.924Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for os commanding
+2023-12-12T18:17:24.924Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for padding oracle attack
+2023-12-12T18:17:24.925Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for path traversal
+2023-12-12T18:17:24.925Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for persistent cookie exposing
+2023-12-12T18:17:24.925Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for potential path traversal
+2023-12-12T18:17:24.926Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for process control
+2023-12-12T18:17:24.926Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for redos
+2023-12-12T18:17:24.927Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for remote code execution
+2023-12-12T18:17:24.927Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for remote file inclusion
+2023-12-12T18:17:24.928Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for resource exhaustion
+2023-12-12T18:17:24.914Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability register_globals
+2023-12-12T18:17:24.929Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for resource location brute-force
+2023-12-12T18:17:24.929Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability session.cookie_httponly
+2023-12-12T18:17:24.929Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability traceenable
+2023-12-12T18:17:24.930Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability validaterequest
+2023-12-12T18:17:24.930Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service loadmodule security2_module
+2023-12-12T18:17:24.930Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service max_execution_time
+2023-12-12T18:17:24.930Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service max_input_nesting_level
+2023-12-12T18:17:24.930Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service max_input_time
+2023-12-12T18:17:24.931Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service memory_limit
+2023-12-12T18:17:24.931Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service post_max_size
+2023-12-12T18:17:24.931Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service upload_max_filesize
+2023-12-12T18:17:24.932Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing autoindex
+2023-12-12T18:17:24.932Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing loadmodule autoindex_module
+2023-12-12T18:17:24.929Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server-side request forgery
+2023-12-12T18:17:24.932Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing options
+2023-12-12T18:17:24.932Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing ssi
+2023-12-12T18:17:24.933Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage curl.cainfo
+2023-12-12T18:17:24.933Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage debug
+2023-12-12T18:17:24.933Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage display_errors
+2023-12-12T18:17:24.933Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage display_startup_errors
+2023-12-12T18:17:24.934Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage error-code
+2023-12-12T18:17:24.932Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server-side template injection
+2023-12-12T18:17:24.936Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serverfingerprinting
+2023-12-12T18:17:24.935Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage errordocument
+2023-12-12T18:17:24.938Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage expose_php
+2023-12-12T18:17:24.938Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage loadmodule include_module
+2023-12-12T18:17:24.937Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for session management weakness
+2023-12-12T18:17:24.939Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage loadmodule info_module
+2023-12-12T18:17:24.939Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage loadmodule negotiation_module
+2023-12-12T18:17:24.939Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage mode
+2023-12-12T18:17:24.940Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage param-name
+2023-12-12T18:17:24.940Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage param-name-xsrf
+2023-12-12T18:17:24.940Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage request_order
+2023-12-12T18:17:24.940Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage server_tokens
+2023-12-12T18:17:24.941Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage serversignature
+2023-12-12T18:17:24.941Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage servertokens
+2023-12-12T18:17:24.941Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage statuscode
+2023-12-12T18:17:24.941Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage value
+2023-12-12T18:17:24.941Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient authentication enableviewstatemac
+2023-12-12T18:17:24.942Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient session expiration session-timeout
+2023-12-12T18:17:24.942Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient transport layer protection requiressl
+2023-12-12T18:17:24.942Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient transport layer protection secure
+2023-12-12T18:17:24.943Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient transport layer protection transport-guarantee
+2023-12-12T18:17:24.944Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode
+2023-12-12T18:17:24.944Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode_exec_dir
+2023-12-12T18:17:24.939Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for shellshock
+2023-12-12T18:17:24.944Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode_gid
+2023-12-12T18:17:24.945Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode_include_dir
+2023-12-12T18:17:24.944Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for smtp header injection
+2023-12-12T18:17:24.945Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf path traversal vulnerability open_basedir
+2023-12-12T18:17:24.946Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution addhandler
+2023-12-12T18:17:24.946Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution addtype
+2023-12-12T18:17:24.945Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sql injection
+2023-12-12T18:17:24.948Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sqli
+2023-12-12T18:17:24.948Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for stack overflow
+2023-12-12T18:17:24.947Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution assert.active
+2023-12-12T18:17:24.950Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution auto_append_file
+2023-12-12T18:17:24.950Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uaf
+2023-12-12T18:17:24.951Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled data manipulation
+2023-12-12T18:17:24.951Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution auto_prepend_file
+2023-12-12T18:17:24.952Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled env var modification
+2023-12-12T18:17:24.952Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution enable_dl
+2023-12-12T18:17:24.952Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unrestricted file upload
+2023-12-12T18:17:24.953Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution php_value
+2023-12-12T18:17:24.953Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote command execution disable_functions
+2023-12-12T18:17:24.953Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use after free
+2023-12-12T18:17:24.954Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for webview xss taint
+2023-12-12T18:17:24.954Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xml entity expansion
+2023-12-12T18:17:24.954Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote command execution http-method
+2023-12-12T18:17:24.955Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote command execution loadmodule cgi_module
+2023-12-12T18:17:24.955Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote file inclusion allow_url_fopen
+2023-12-12T18:17:24.955Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote file inclusion allow_url_include
+2023-12-12T18:17:24.955Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote file inclusion cgi.fix_pathinfo
+2023-12-12T18:17:24.956Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf response splitting enableheaderchecking
+2023-12-12T18:17:24.956Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf response splitting useunsafeheaderparsing
+2023-12-12T18:17:24.954Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xml external entity
+2023-12-12T18:17:24.956Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xpath injection
+2023-12-12T18:17:24.957Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xquery injection
+2023-12-12T18:17:24.957Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 100
+2023-12-12T18:17:24.957Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 101
+2023-12-12T18:17:24.957Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 102
+2023-12-12T18:17:24.958Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 103
+2023-12-12T18:17:24.956Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking log_errors
+2023-12-12T18:17:24.958Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 104
+2023-12-12T18:17:24.959Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 105
+2023-12-12T18:17:24.960Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 107
+2023-12-12T18:17:24.960Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 108
+2023-12-12T18:17:24.960Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 109
+2023-12-12T18:17:24.959Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.cookie_lifetime
+2023-12-12T18:17:24.960Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 111
+2023-12-12T18:17:24.961Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.cookie_secure
+2023-12-12T18:17:24.961Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.referer_check
+2023-12-12T18:17:24.962Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.save_path
+2023-12-12T18:17:24.962Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.use_cookies
+2023-12-12T18:17:24.961Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 113
+2023-12-12T18:17:24.962Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 114
+2023-12-12T18:17:24.963Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 116
+2023-12-12T18:17:24.963Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 117
+2023-12-12T18:17:24.963Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 118
+2023-12-12T18:17:24.963Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 120
+2023-12-12T18:17:24.962Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.use_only_cookies
+2023-12-12T18:17:24.964Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 122
+2023-12-12T18:17:24.964Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 123
+2023-12-12T18:17:24.965Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 124
+2023-12-12T18:17:24.964Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.use_strict_mode
+2023-12-12T18:17:24.965Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl
+2023-12-12T18:17:24.965Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 125
+2023-12-12T18:17:24.966Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 127
+2023-12-12T18:17:24.966Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 128
+2023-12-12T18:17:24.966Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 129
+2023-12-12T18:17:24.965Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_certificate
+2023-12-12T18:17:24.967Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 130
+2023-12-12T18:17:24.967Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 135
+2023-12-12T18:17:24.967Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_certificate_key
+2023-12-12T18:17:24.968Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_ciphers
+2023-12-12T18:17:24.968Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_dhparam
+2023-12-12T18:17:24.969Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_prefer_server_ciphers
+2023-12-12T18:17:24.969Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_protocols
+2023-12-12T18:17:24.968Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 138
+2023-12-12T18:17:24.969Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_session_cache
+2023-12-12T18:17:24.969Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 139
+2023-12-12T18:17:24.970Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_session_timeout
+2023-12-12T18:17:24.970Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_stapling
+2023-12-12T18:17:24.971Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking tracking-mode
+2023-12-12T18:17:24.971Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf sql injection magic_quotes_gpc
+2023-12-12T18:17:24.971Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf sql injection magic_quotes_runtime
+2023-12-12T18:17:24.972Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf sql injection magic_quotes_sybase
+2023-12-12T18:17:24.970Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 140
+2023-12-12T18:17:24.972Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 141
+2023-12-12T18:17:24.973Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 142
+2023-12-12T18:17:24.973Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 144
+2023-12-12T18:17:24.973Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 145
+2023-12-12T18:17:24.974Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 146
+2023-12-12T18:17:24.972Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @audit-enabled
+2023-12-12T18:17:24.974Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @port
+2023-12-12T18:17:24.974Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @value
+2023-12-12T18:17:24.974Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 147
+2023-12-12T18:17:24.975Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 148
+2023-12-12T18:17:24.977Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 149
+2023-12-12T18:17:24.977Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 150
+2023-12-12T18:17:24.978Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 151
+2023-12-12T18:17:24.978Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 152
+2023-12-12T18:17:24.978Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 153
+2023-12-12T18:17:24.975Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @xpowered-by
+2023-12-12T18:17:24.978Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 154
+2023-12-12T18:17:24.978Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml jvm-options
+2023-12-12T18:17:24.979Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 156
+2023-12-12T18:17:24.979Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist cfbundleurltypes
+2023-12-12T18:17:24.980Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nsexceptionallowsinsecurehttploads
+2023-12-12T18:17:24.980Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nsexceptionminimumtlsversion
+2023-12-12T18:17:24.979Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 157
+2023-12-12T18:17:24.980Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nstemporarythirdpartyexceptionallowsinsecurehttploads
+2023-12-12T18:17:24.980Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 158
+2023-12-12T18:17:24.981Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 159
+2023-12-12T18:17:24.981Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nstemporarythirdpartyexceptionminimumtlsversion
+2023-12-12T18:17:24.981Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 160
+2023-12-12T18:17:24.982Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf cgi.assign
+2023-12-12T18:17:24.983Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf server.dir-listing
+2023-12-12T18:17:24.984Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf setenv.add-response-header
+2023-12-12T18:17:24.984Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf status.config-url
+2023-12-12T18:17:24.983Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 161
+2023-12-12T18:17:24.985Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf status.status-url
+2023-12-12T18:17:24.985Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 162
+2023-12-12T18:17:24.986Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 163
+2023-12-12T18:17:24.985Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf webdav.is-readonly
+2023-12-12T18:17:24.986Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 164
+2023-12-12T18:17:24.986Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @debug
+2023-12-12T18:17:24.987Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 165
+2023-12-12T18:17:24.987Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @decryption
+2023-12-12T18:17:24.987Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 200
+2023-12-12T18:17:24.987Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @decryptionkey
+2023-12-12T18:17:24.988Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24544
+2023-12-12T18:17:24.988Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24545
+2023-12-12T18:17:24.988Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24546
+2023-12-12T18:17:24.989Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24547
+2023-12-12T18:17:24.989Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24548
+2023-12-12T18:17:24.988Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @passwordformat
+2023-12-12T18:17:24.989Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @retail
+2023-12-12T18:17:24.990Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @username[@processmodel]
+2023-12-12T18:17:24.990Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @validation
+2023-12-12T18:17:24.990Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @validationkey
+2023-12-12T18:17:24.989Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24549
+2023-12-12T18:17:24.991Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24550
+2023-12-12T18:17:24.992Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24551
+2023-12-12T18:17:24.993Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24552
+2023-12-12T18:17:24.991Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf add_header
+2023-12-12T18:17:24.993Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf add_header[inheritance]
+2023-12-12T18:17:24.993Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf alias[traversal]
+2023-12-12T18:17:24.994Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf autoindex
+2023-12-12T18:17:24.993Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24553
+2023-12-12T18:17:24.994Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24554
+2023-12-12T18:17:24.995Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24555
+2023-12-12T18:17:24.995Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24556
+2023-12-12T18:17:24.995Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24557
+2023-12-12T18:17:24.995Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24558
+2023-12-12T18:17:24.996Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24559
+2023-12-12T18:17:24.996Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24560
+2023-12-12T18:17:24.996Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24561
+2023-12-12T18:17:24.997Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24562
+2023-12-12T18:17:24.994Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf error_log
+2023-12-12T18:17:24.997Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf error_page
+2023-12-12T18:17:24.998Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf more_set_headers
+2023-12-12T18:17:24.998Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf proxy_set_header
+2023-12-12T18:17:24.997Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24563
+2023-12-12T18:17:24.999Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24564
+2023-12-12T18:17:25.001Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24565
+2023-12-12T18:17:25.002Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24566
+2023-12-12T18:17:24.998Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf server_tokens
+2023-12-12T18:17:25.003Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssi
+2023-12-12T18:17:25.003Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl
+2023-12-12T18:17:25.004Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_certificate
+2023-12-12T18:17:25.004Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_certificate_key
+2023-12-12T18:17:25.004Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_ciphers
+2023-12-12T18:17:25.005Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_dhparam
+2023-12-12T18:17:25.005Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_prefer_server_ciphers
+2023-12-12T18:17:25.005Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_protocols
+2023-12-12T18:17:25.005Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_session_cache
+2023-12-12T18:17:25.006Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_session_timeout
+2023-12-12T18:17:25.003Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24567
+2023-12-12T18:17:25.006Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 24568
+2023-12-12T18:17:25.007Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 305
+2023-12-12T18:17:25.006Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_stapling
+2023-12-12T18:17:25.007Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 96
+2023-12-12T18:17:25.008Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 97
+2023-12-12T18:17:25.008Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 98
+2023-12-12T18:17:25.007Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf valid_referers
+2023-12-12T18:17:25.009Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for 99
+2023-12-12T18:17:25.010Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini allow_url_fopen
+2023-12-12T18:17:25.010Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside addeventlistener
+2023-12-12T18:17:25.011Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside attachevent
+2023-12-12T18:17:25.011Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside createattribute
+2023-12-12T18:17:25.011Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside element event
+2023-12-12T18:17:25.012Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside setattribute
+2023-12-12T18:17:25.012Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for attributes code inside setattributens
+2023-12-12T18:17:25.012Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for buffer overflow
+2023-12-12T18:17:25.012Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for buffer overflow in python
+2023-12-12T18:17:25.013Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for buffer overflow pm
+2023-12-12T18:17:25.013Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for class defines clone but not implement cloneable
+2023-12-12T18:17:25.014Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for csrf protection disabled
+2023-12-12T18:17:25.010Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini allow_url_include
+2023-12-12T18:17:25.014Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor snarfing plsql
+2023-12-12T18:17:25.014Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for cursor snarfing tsql
+2023-12-12T18:17:25.015Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dangerous function plsql
+2023-12-12T18:17:25.015Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dangerous function tsql
+2023-12-12T18:17:25.015Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for debug information leakage
+2023-12-12T18:17:25.015Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for debug mode python
+2023-12-12T18:17:25.016Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deprecated functions objc
+2023-12-12T18:17:25.014Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini assert.active
+2023-12-12T18:17:25.017Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini auto_append_file
+2023-12-12T18:17:25.016Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deserialization of untrusted data pm
+2023-12-12T18:17:25.017Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for deserialization of untrusted data pm python
+2023-12-12T18:17:25.018Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for detection of error condition without action
+2023-12-12T18:17:25.017Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini auto_prepend_file
+2023-12-12T18:17:25.018Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for direct use of threads
+2023-12-12T18:17:25.019Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for directorytraversalcreatereadstream
+2023-12-12T18:17:25.019Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for directorytraversalreadfile
+2023-12-12T18:17:25.019Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for disabling ssl certificate checks
+2023-12-12T18:17:25.019Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for disabling ssl certificate checks c
+2023-12-12T18:17:25.020Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for disabling ssl-tls certificate checks go
+2023-12-12T18:17:25.020Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for divide by zero
+2023-12-12T18:17:25.020Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification contextual fragment
+2023-12-12T18:17:25.020Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification html tag
+2023-12-12T18:17:25.021Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification selected position
+2023-12-12T18:17:25.021Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for dom modification string inside document
+2023-12-12T18:17:25.021Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for download of code without integrity check
+2023-12-12T18:17:25.021Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for embedded malicious code
+2023-12-12T18:17:25.022Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for empty default exception handler
+2023-12-12T18:17:25.022Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for erroneous null comparison
+2023-12-12T18:17:25.018Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini cgi.fix_pathinfo
+2023-12-12T18:17:25.022Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini cgi.force_redirect
+2023-12-12T18:17:25.023Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini disable_functions
+2023-12-12T18:17:25.023Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini display_errors
+2023-12-12T18:17:25.023Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini display_startup_errors
+2023-12-12T18:17:25.022Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for exposure of data element to wrong session
+2023-12-12T18:17:25.025Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for exposure of system data to an unauthorized control sphere
+2023-12-12T18:17:25.024Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini enable_dl
+2023-12-12T18:17:25.026Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini expose_php
+2023-12-12T18:17:25.026Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini log_errors
+2023-12-12T18:17:25.026Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini magic_quotes_gpc
+2023-12-12T18:17:25.026Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini magic_quotes_runtime
+2023-12-12T18:17:25.027Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini magic_quotes_sybase
+2023-12-12T18:17:25.027Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini max_execution_time
+2023-12-12T18:17:25.027Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini max_input_nesting_level
+2023-12-12T18:17:25.027Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini max_input_time
+2023-12-12T18:17:25.028Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini memory_limit
+2023-12-12T18:17:25.028Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini open_basedir
+2023-12-12T18:17:25.028Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini post_max_size
+2023-12-12T18:17:25.029Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini register_globals
+2023-12-12T18:17:25.029Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini request_order
+2023-12-12T18:17:25.025Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for external control of file name or path
+2023-12-12T18:17:25.030Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for file snarfing plsql
+2023-12-12T18:17:25.030Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for format string pm
+2023-12-12T18:17:25.030Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for forwarding via location
+2023-12-12T18:17:25.029Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini safe_mode
+2023-12-12T18:17:25.032Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.cookie_httponly
+2023-12-12T18:17:25.032Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.cookie_lifetime
+2023-12-12T18:17:25.033Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.cookie_secure
+2023-12-12T18:17:25.033Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.save_path
+2023-12-12T18:17:25.033Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_cookies
+2023-12-12T18:17:25.034Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_only_cookies
+2023-12-12T18:17:25.034Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_strict_mode
+2023-12-12T18:17:25.034Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_trans_sid
+2023-12-12T18:17:25.034Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini upload_max_filesize
+2023-12-12T18:17:25.034Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for potential vulnerability
+2023-12-12T18:17:25.035Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @allowtrace
+2023-12-12T18:17:25.035Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @autodeploy
+2023-12-12T18:17:25.035Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @clientauth
+2023-12-12T18:17:25.035Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @connectiontimeout
+2023-12-12T18:17:25.036Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @deployonstartup
+2023-12-12T18:17:25.036Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @maxhttpheadersize
+2023-12-12T18:17:25.036Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @secure
+2023-12-12T18:17:25.037Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @shutdown
+2023-12-12T18:17:25.037Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @xpoweredby
+2023-12-12T18:17:25.031Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for forwarding via location function
+2023-12-12T18:17:25.037Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for forwarding via opening new tab
+2023-12-12T18:17:25.038Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ftpusage
+2023-12-12T18:17:25.038Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for go weak cryptographic hash
+2023-12-12T18:17:25.038Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded initialization vector
+2023-12-12T18:17:25.041Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded key
+2023-12-12T18:17:25.041Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded password kotlin
+2023-12-12T18:17:25.042Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded password pm
+2023-12-12T18:17:25.042Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for hardcoded pbkdf password
+2023-12-12T18:17:25.042Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for headerinjection
+2023-12-12T18:17:25.043Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper access control
+2023-12-12T18:17:25.043Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper access control c
+2023-12-12T18:17:25.043Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper certificate validation
+2023-12-12T18:17:25.037Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_websphere @allowlogoutpageredirecttoanyhost
+2023-12-12T18:17:25.044Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_websphere @displayauthenticationrealm
+2023-12-12T18:17:25.044Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_websphere @preservefullyqualifiedreferrerurl
+2023-12-12T18:17:25.044Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @default-user
+2023-12-12T18:17:25.044Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @display-source-fragment
+2023-12-12T18:17:25.045Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @scan-interval
+2023-12-12T18:17:25.045Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @value
+2023-12-12T18:17:25.045Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @x-powered-by
+2023-12-12T18:17:25.045Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @allowoverride
+2023-12-12T18:17:25.046Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cacherolesincookie
+2023-12-12T18:17:25.046Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @certificatevalidationmode
+2023-12-12T18:17:25.046Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @connectionprotection
+2023-12-12T18:17:25.046Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookieless
+2023-12-12T18:17:25.043Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improper check for unusual or exceptional conditions
+2023-12-12T18:17:25.049Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for improperly implemented security check for standard
+2023-12-12T18:17:25.049Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for include interface ssl
+2023-12-12T18:17:25.049Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource
+2023-12-12T18:17:25.050Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource 1
+2023-12-12T18:17:25.048Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookieprotection
+2023-12-12T18:17:25.050Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookierequiressl
+2023-12-12T18:17:25.050Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource go
+2023-12-12T18:17:25.051Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookieslidingexpiration
+2023-12-12T18:17:25.051Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect permission assignment for critical resource java
+2023-12-12T18:17:25.051Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect unix api using
+2023-12-12T18:17:25.051Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrect usage of seeds in pseudo-random number generator
+2023-12-12T18:17:25.052Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for incorrectpermissionassignmentphp
+2023-12-12T18:17:25.052Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure pm
+2023-12-12T18:17:25.052Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through an error message
+2023-12-12T18:17:25.052Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through comments
+2023-12-12T18:17:25.053Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through persistent cookies
+2023-12-12T18:17:25.053Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through persistent cookies 1
+2023-12-12T18:17:25.054Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for information exposure through static content
+2023-12-12T18:17:25.054Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for informationexposureviaexception
+2023-12-12T18:17:25.054Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cipher key export
+2023-12-12T18:17:25.056Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure connection protocol
+2023-12-12T18:17:25.056Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cookie 1
+2023-12-12T18:17:25.057Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cookie 2
+2023-12-12T18:17:25.057Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure cookie scope
+2023-12-12T18:17:25.058Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure data storage
+2023-12-12T18:17:25.051Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookietimeout
+2023-12-12T18:17:25.058Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure data storage objc simple
+2023-12-12T18:17:25.059Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure network binding
+2023-12-12T18:17:25.059Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure randomness ojbc
+2023-12-12T18:17:25.059Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure randomness plsql
+2023-12-12T18:17:25.059Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure randomness tsql
+2023-12-12T18:17:25.058Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @createpersistentcookie
+2023-12-12T18:17:25.060Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @debug
+2023-12-12T18:17:25.060Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @decryptionkey
+2023-12-12T18:17:25.060Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enablecrossappredirects
+2023-12-12T18:17:25.061Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enabled
+2023-12-12T18:17:25.061Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enabled[directorybrowse]
+2023-12-12T18:17:25.061Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableeventvalidation
+2023-12-12T18:17:25.061Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableheaderchecking
+2023-12-12T18:17:25.062Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableversionheader
+2023-12-12T18:17:25.060Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure rsa padding
+2023-12-12T18:17:25.062Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure rsa padding 1
+2023-12-12T18:17:25.062Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure ssl connection
+2023-12-12T18:17:25.063Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure ssl connection 1
+2023-12-12T18:17:25.063Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure ssl protocol
+2023-12-12T18:17:25.064Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure transport java
+2023-12-12T18:17:25.064Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure usage of jinja templates
+2023-12-12T18:17:25.062Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableviewstatemac
+2023-12-12T18:17:25.065Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure usage of mako templates
+2023-12-12T18:17:25.066Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @httponlycookies
+2023-12-12T18:17:25.066Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @level
+2023-12-12T18:17:25.066Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxeventdetaillength
+2023-12-12T18:17:25.066Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxeventlengthforsimplemessage
+2023-12-12T18:17:25.067Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxrequestlength
+2023-12-12T18:17:25.067Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxsizeforsimplemessage
+2023-12-12T18:17:25.067Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @minrequirednonalphanumericcharacters
+2023-12-12T18:17:25.067Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @minrequiredpasswordlength
+2023-12-12T18:17:25.067Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @mode
+2023-12-12T18:17:25.068Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @name[@credentials]
+2023-12-12T18:17:25.068Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @passwordformat
+2023-12-12T18:17:25.068Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @protection
+2023-12-12T18:17:25.068Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @requestvalidationmode
+2023-12-12T18:17:25.069Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @requiressl
+2023-12-12T18:17:25.069Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @requiressl[@authentication]
+2023-12-12T18:17:25.069Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @slidingexpiration
+2023-12-12T18:17:25.069Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @statuscode
+2023-12-12T18:17:25.069Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @timeout
+2023-12-12T18:17:25.066Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure validation functions
+2023-12-12T18:17:25.070Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure validation functions 1
+2023-12-12T18:17:25.070Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecure work with temporary files
+2023-12-12T18:17:25.071Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insecureevalpython
+2023-12-12T18:17:25.071Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient cors policy
+2023-12-12T18:17:25.071Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient encryption key length
+2023-12-12T18:17:25.072Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient encryption key length 1
+2023-12-12T18:17:25.072Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient key size go
+2023-12-12T18:17:25.073Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient logging&monitoring
+2023-12-12T18:17:25.073Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficient session expiration pm
+2023-12-12T18:17:25.074Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for insufficientencryptionkeylength
+2023-12-12T18:17:25.074Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for integer overflow pm
+2023-12-12T18:17:25.074Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery function that adds element
+2023-12-12T18:17:25.074Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery function that replaces element
+2023-12-12T18:17:25.075Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery html inside dom
+2023-12-12T18:17:25.075Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery unsafe functions for dom
+2023-12-12T18:17:25.075Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for jquery wrap element to html
+2023-12-12T18:17:25.075Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for json-test
+2023-12-12T18:17:25.076Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lack of the host key verification go
+2023-12-12T18:17:25.076Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for least privilege violation
+2023-12-12T18:17:25.076Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for leftover debug code
+2023-12-12T18:17:25.076Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for marksafepython
+2023-12-12T18:17:25.077Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for memory leak
+2023-12-12T18:17:25.077Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for method without super clone
+2023-12-12T18:17:25.077Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for method without super finalize
+2023-12-12T18:17:25.078Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for missing auth localized reason
+2023-12-12T18:17:25.078Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for missing encryption of sensitive data
+2023-12-12T18:17:25.078Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for none
+2023-12-12T18:17:25.078Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for notlsreject
+2023-12-12T18:17:25.079Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nslog using
+2023-12-12T18:17:25.079Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for null dereference pattern
+2023-12-12T18:17:25.079Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for null pbkdf password
+2023-12-12T18:17:25.079Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for obsolete function
+2023-12-12T18:17:25.080Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for openredirect
+2023-12-12T18:17:25.070Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @type
+2023-12-12T18:17:25.080Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @username[@identity]
+2023-12-12T18:17:25.081Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @users
+2023-12-12T18:17:25.081Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @useunsafeheaderparsing
+2023-12-12T18:17:25.081Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @validaterequest
+2023-12-12T18:17:25.081Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @validation
+2023-12-12T18:17:25.082Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @validationkey
+2023-12-12T18:17:25.082Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value
+2023-12-12T18:17:25.082Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[@accesscontrolalloworiginheader]
+2023-12-12T18:17:25.082Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[@aspnetcore_environment]
+2023-12-12T18:17:25.083Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[uselegacyencryption]
+2023-12-12T18:17:25.080Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for overly broad grant
+2023-12-12T18:17:25.083Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for override equals method without hashcode
+2023-12-12T18:17:25.083Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for pattern matching
+2023-12-12T18:17:25.084Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php pm sensitive cookie in https session without ‘secure’ attribute
+2023-12-12T18:17:25.084Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for plaintext storage of a password
+2023-12-12T18:17:25.084Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for plaintext storage of a password 1
+2023-12-12T18:17:25.085Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for play 1 html xss
+2023-12-12T18:17:25.083Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[x-frame-options]
+2023-12-12T18:17:25.085Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for play 2 html xss
+2023-12-12T18:17:25.086Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for poor logging prictice logger
+2023-12-12T18:17:25.086Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for poor logging prictice system
+2023-12-12T18:17:25.086Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for possible rce through sql injection
+2023-12-12T18:17:25.086Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for private array typed field returned from a public method
+2023-12-12T18:17:25.087Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for public data assigned to private array typed field
+2023-12-12T18:17:25.087Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for python weak cryptographic hash
+2023-12-12T18:17:25.085Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @viewstateencryptionmode
+2023-12-12T18:17:25.088Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config ciphervalue[@sessionstate]
+2023-12-12T18:17:25.089Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config remove/@name[documentation]
+2023-12-12T18:17:25.089Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config remove/@name[x-powered-by]
+2023-12-12T18:17:25.089Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml error-code
+2023-12-12T18:17:25.090Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml http-method
+2023-12-12T18:17:25.090Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml http-only
+2023-12-12T18:17:25.090Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml param-value
+2023-12-12T18:17:25.091Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml secure
+2023-12-12T18:17:25.091Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml session-timeout
+2023-12-12T18:17:25.092Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml tracking-mode
+2023-12-12T18:17:25.092Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml transport-guarantee
+2023-12-12T18:17:25.092Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2023-12-12T18:17:25.088Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for python2input
+2023-12-12T18:17:25.093Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for pythonassertion
+2023-12-12T18:17:25.093Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for reflectedcrosssitescripting
+2023-12-12T18:17:25.094Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for reliance on dns lookups in a security decision
+2023-12-12T18:17:25.094Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for return of stack variable address
+2023-12-12T18:17:25.094Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for reversible one way hash
+2023-12-12T18:17:25.094Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sensitive cookie in https session without ‘secure’ attribute
+2023-12-12T18:17:25.094Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sensitive cookie in https session without httponly attribute
+2023-12-12T18:17:25.095Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for sensitive cookie in https session without secure attribute
+2023-12-12T18:17:25.095Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectioneval
+2023-12-12T18:17:25.095Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionfunction
+2023-12-12T18:17:25.095Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionsetinterval
+2023-12-12T18:17:25.096Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionsettimeout
+2023-12-12T18:17:25.096Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for serversideinjectionyaml
+2023-12-12T18:17:25.096Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ssl configuration flaws
+2023-12-12T18:17:25.097Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for static random number generator
+2023-12-12T18:17:25.097Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for time of check time of use race condition
+2023-12-12T18:17:25.097Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for trust boundary violation
+2023-12-12T18:17:25.097Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for type confusion
+2023-12-12T18:17:25.098Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled memory allocation
+2023-12-12T18:17:25.098Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for uncontrolled recursion
+2023-12-12T18:17:25.098Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unreachable code
+2023-12-12T18:17:25.098Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsafe cross-origin resource sharing
+2023-12-12T18:17:25.099Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsafe reflection
+2023-12-12T18:17:25.099Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsalted one way hash
+2023-12-12T18:17:25.099Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsalted one way hash 1
+2023-12-12T18:17:25.099Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unsaltedonewayhash
+2023-12-12T18:17:25.099Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for unused var
+2023-12-12T18:17:25.100Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for urllibusagepython
+2023-12-12T18:17:25.100Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use broken crypto
+2023-12-12T18:17:25.100Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm
+2023-12-12T18:17:25.100Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 1
+2023-12-12T18:17:25.101Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 2
+2023-12-12T18:17:25.101Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 3
+2023-12-12T18:17:25.101Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 4
+2023-12-12T18:17:25.101Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 5
+2023-12-12T18:17:25.096Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2023-12-12T18:17:25.101Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm 6
+2023-12-12T18:17:25.103Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of a broken or risky cryptographic algorithm go
+2023-12-12T18:17:25.103Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of function with inconsistent implementations
+2023-12-12T18:17:25.103Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of hardcoded cryptographic key
+2023-12-12T18:17:25.104Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of insufficiently random values
+2023-12-12T18:17:25.104Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of insufficiently random values 1
+2023-12-12T18:17:25.104Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of insufficiently random values 2
+2023-12-12T18:17:25.104Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of nullpointerexception catch
+2023-12-12T18:17:25.105Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of obsolete function 1
+2023-12-12T18:17:25.105Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of system exit
+2023-12-12T18:17:25.105Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for use of uninitialized variable
+2023-12-12T18:17:25.105Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for user driven insecure hash algorithm
+2023-12-12T18:17:25.105Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for user driven insecure hash algorithm 1
+2023-12-12T18:17:25.106Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for vulnerable template module
+2023-12-12T18:17:25.106Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto api objc
+2023-12-12T18:17:25.106Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto hash api objc
+2023-12-12T18:17:25.106Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto iv objc
+2023-12-12T18:17:25.106Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak crypto key objc
+2023-12-12T18:17:25.107Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic algorithm 1
+2023-12-12T18:17:25.107Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic hash
+2023-12-12T18:17:25.107Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic hash plsql
+2023-12-12T18:17:25.107Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak cryptographic hash tsql
+2023-12-12T18:17:25.107Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak hmac key objc
+2023-12-12T18:17:25.108Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak password requirements
+2023-12-12T18:17:25.108Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak pbkdf salt
+2023-12-12T18:17:25.108Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weak rsa objc
+2023-12-12T18:17:25.108Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weakhashcrypto
+2023-12-12T18:17:25.109Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for weakhashcryptojs
+2023-12-12T18:17:25.109Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for webforms validaterequest
+2023-12-12T18:17:25.109Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for webview xss
+2023-12-12T18:17:25.109Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xml external entity pm
+2023-12-12T18:17:25.109Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for xss protection disabled
+2023-12-12T18:17:25.110Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for yaml load
+2023-12-12T18:17:25.110Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess addhandler
+2023-12-12T18:17:25.110Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess addtype
+2023-12-12T18:17:25.110Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess options
+2023-12-12T18:17:25.110Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess php_value
+2023-12-12T18:17:25.111Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for .htaccess serversignature
+2023-12-12T18:17:25.111Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:allowbackup
+2023-12-12T18:17:25.111Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:debuggable
+2023-12-12T18:17:25.111Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:exported
+2023-12-12T18:17:25.111Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:exported[provider]
+2023-12-12T18:17:25.112Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:protectionlevel
+2023-12-12T18:17:25.112Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_manifest.xml @android:scheme
+2023-12-12T18:17:25.112Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for android_networksecurityconfig.xml @src
+2023-12-12T18:17:25.112Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf addhandler
+2023-12-12T18:17:25.113Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf addtype
+2023-12-12T18:17:25.113Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf loadmodule
+2023-12-12T18:17:25.114Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf options
+2023-12-12T18:17:25.114Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf php_value
+2023-12-12T18:17:25.114Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf serversignature
+2023-12-12T18:17:25.114Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf servertokens
+2023-12-12T18:17:25.114Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for apache.conf traceenable
+2023-12-12T18:17:25.115Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for applicationhost.config @accesspolicy
+2023-12-12T18:17:25.115Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for applicationhost.config @notlistedisapisallowed
+2023-12-12T18:17:25.115Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for applicationhost.config @username
+2023-12-12T18:17:25.115Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf arbitrary file upload file_uploads
+2023-12-12T18:17:25.115Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability http-only
+2023-12-12T18:17:25.116Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability httponlycookies
+2023-12-12T18:17:25.116Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability register_globals
+2023-12-12T18:17:25.116Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability session.cookie_httponly
+2023-12-12T18:17:25.116Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability traceenable
+2023-12-12T18:17:25.116Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf cross site scripting vulnerability validaterequest
+2023-12-12T18:17:25.116Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service loadmodule security2_module
+2023-12-12T18:17:25.117Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service max_execution_time
+2023-12-12T18:17:25.117Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service max_input_nesting_level
+2023-12-12T18:17:25.117Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service max_input_time
+2023-12-12T18:17:25.117Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service memory_limit
+2023-12-12T18:17:25.117Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service post_max_size
+2023-12-12T18:17:25.118Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf denial of service upload_max_filesize
+2023-12-12T18:17:25.118Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing autoindex
+2023-12-12T18:17:25.118Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing loadmodule autoindex_module
+2023-12-12T18:17:25.118Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing options
+2023-12-12T18:17:25.118Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf directory indexing ssi
+2023-12-12T18:17:25.119Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage curl.cainfo
+2023-12-12T18:17:25.119Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage debug
+2023-12-12T18:17:25.119Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage display_errors
+2023-12-12T18:17:25.119Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage display_startup_errors
+2023-12-12T18:17:25.119Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage error-code
+2023-12-12T18:17:25.120Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage errordocument
+2023-12-12T18:17:25.120Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage expose_php
+2023-12-12T18:17:25.120Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage loadmodule include_module
+2023-12-12T18:17:25.120Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage loadmodule info_module
+2023-12-12T18:17:25.120Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage loadmodule negotiation_module
+2023-12-12T18:17:25.121Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage mode
+2023-12-12T18:17:25.121Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage param-name
+2023-12-12T18:17:25.121Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage param-name-xsrf
+2023-12-12T18:17:25.121Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage request_order
+2023-12-12T18:17:25.122Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage server_tokens
+2023-12-12T18:17:25.122Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage serversignature
+2023-12-12T18:17:25.122Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage servertokens
+2023-12-12T18:17:25.122Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage statuscode
+2023-12-12T18:17:25.122Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf information leakage value
+2023-12-12T18:17:25.123Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient authentication enableviewstatemac
+2023-12-12T18:17:25.123Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient session expiration session-timeout
+2023-12-12T18:17:25.125Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient transport layer protection requiressl
+2023-12-12T18:17:25.132Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient transport layer protection secure
+2023-12-12T18:17:25.132Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf insufficient transport layer protection transport-guarantee
+2023-12-12T18:17:25.132Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode
+2023-12-12T18:17:25.133Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode_exec_dir
+2023-12-12T18:17:25.133Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode_gid
+2023-12-12T18:17:25.133Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf obsolete option safe_mode_include_dir
+2023-12-12T18:17:25.133Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf path traversal vulnerability open_basedir
+2023-12-12T18:17:25.134Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution addhandler
+2023-12-12T18:17:25.134Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution addtype
+2023-12-12T18:17:25.134Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution assert.active
+2023-12-12T18:17:25.135Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution auto_append_file
+2023-12-12T18:17:25.135Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution auto_prepend_file
+2023-12-12T18:17:25.136Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution enable_dl
+2023-12-12T18:17:25.137Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote code execution php_value
+2023-12-12T18:17:25.137Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote command execution disable_functions
+2023-12-12T18:17:25.137Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote command execution http-method
+2023-12-12T18:17:25.137Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote command execution loadmodule cgi_module
+2023-12-12T18:17:25.137Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote file inclusion allow_url_fopen
+2023-12-12T18:17:25.138Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote file inclusion allow_url_include
+2023-12-12T18:17:25.138Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf remote file inclusion cgi.fix_pathinfo
+2023-12-12T18:17:25.138Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf response splitting enableheaderchecking
+2023-12-12T18:17:25.138Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf response splitting useunsafeheaderparsing
+2023-12-12T18:17:25.139Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking log_errors
+2023-12-12T18:17:25.139Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.cookie_lifetime
+2023-12-12T18:17:25.139Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.cookie_secure
+2023-12-12T18:17:25.139Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.referer_check
+2023-12-12T18:17:25.139Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.save_path
+2023-12-12T18:17:25.140Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.use_cookies
+2023-12-12T18:17:25.140Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.use_only_cookies
+2023-12-12T18:17:25.140Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking session.use_strict_mode
+2023-12-12T18:17:25.140Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl
+2023-12-12T18:17:25.140Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_certificate
+2023-12-12T18:17:25.140Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_certificate_key
+2023-12-12T18:17:25.141Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_ciphers
+2023-12-12T18:17:25.141Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_dhparam
+2023-12-12T18:17:25.141Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_prefer_server_ciphers
+2023-12-12T18:17:25.141Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_protocols
+2023-12-12T18:17:25.141Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_session_cache
+2023-12-12T18:17:25.142Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_session_timeout
+2023-12-12T18:17:25.142Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking ssl_stapling
+2023-12-12T18:17:25.142Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf session hijacking tracking-mode
+2023-12-12T18:17:25.142Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf sql injection magic_quotes_gpc
+2023-12-12T18:17:25.143Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf sql injection magic_quotes_runtime
+2023-12-12T18:17:25.143Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for conf sql injection magic_quotes_sybase
+2023-12-12T18:17:25.143Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @audit-enabled
+2023-12-12T18:17:25.143Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @port
+2023-12-12T18:17:25.144Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @value
+2023-12-12T18:17:25.144Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml @xpowered-by
+2023-12-12T18:17:25.144Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for domain.xml jvm-options
+2023-12-12T18:17:25.144Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist cfbundleurltypes
+2023-12-12T18:17:25.144Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nsexceptionallowsinsecurehttploads
+2023-12-12T18:17:25.145Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nsexceptionminimumtlsversion
+2023-12-12T18:17:25.145Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nstemporarythirdpartyexceptionallowsinsecurehttploads
+2023-12-12T18:17:25.145Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for ios_info.plist nstemporarythirdpartyexceptionminimumtlsversion
+2023-12-12T18:17:25.145Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf cgi.assign
+2023-12-12T18:17:25.145Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf server.dir-listing
+2023-12-12T18:17:25.146Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf setenv.add-response-header
+2023-12-12T18:17:25.149Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf status.config-url
+2023-12-12T18:17:25.149Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf status.status-url
+2023-12-12T18:17:25.149Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for lighttpd.conf webdav.is-readonly
+2023-12-12T18:17:25.149Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @debug
+2023-12-12T18:17:25.149Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @decryption
+2023-12-12T18:17:25.150Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @decryptionkey
+2023-12-12T18:17:25.150Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @passwordformat
+2023-12-12T18:17:25.150Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @retail
+2023-12-12T18:17:25.150Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @username[@processmodel]
+2023-12-12T18:17:25.150Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @validation
+2023-12-12T18:17:25.151Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for machine.config @validationkey
+2023-12-12T18:17:25.151Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf add_header
+2023-12-12T18:17:25.151Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf add_header[inheritance]
+2023-12-12T18:17:25.151Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf alias[traversal]
+2023-12-12T18:17:25.151Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf autoindex
+2023-12-12T18:17:25.152Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf error_log
+2023-12-12T18:17:25.152Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf error_page
+2023-12-12T18:17:25.152Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf more_set_headers
+2023-12-12T18:17:25.152Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf proxy_set_header
+2023-12-12T18:17:25.152Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf server_tokens
+2023-12-12T18:17:25.153Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssi
+2023-12-12T18:17:25.153Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl
+2023-12-12T18:17:25.153Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_certificate
+2023-12-12T18:17:25.153Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_certificate_key
+2023-12-12T18:17:25.153Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_ciphers
+2023-12-12T18:17:25.172Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_dhparam
+2023-12-12T18:17:25.172Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_prefer_server_ciphers
+2023-12-12T18:17:25.173Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_protocols
+2023-12-12T18:17:25.173Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_session_cache
+2023-12-12T18:17:25.173Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_session_timeout
+2023-12-12T18:17:25.173Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf ssl_stapling
+2023-12-12T18:17:25.173Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for nginx.conf valid_referers
+2023-12-12T18:17:25.174Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini allow_url_fopen
+2023-12-12T18:17:25.174Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini allow_url_include
+2023-12-12T18:17:25.174Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini assert.active
+2023-12-12T18:17:25.174Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini auto_append_file
+2023-12-12T18:17:25.174Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini auto_prepend_file
+2023-12-12T18:17:25.175Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini cgi.fix_pathinfo
+2023-12-12T18:17:25.175Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini cgi.force_redirect
+2023-12-12T18:17:25.175Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini disable_functions
+2023-12-12T18:17:25.175Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini display_errors
+2023-12-12T18:17:25.175Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini display_startup_errors
+2023-12-12T18:17:25.175Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini enable_dl
+2023-12-12T18:17:25.176Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini expose_php
+2023-12-12T18:17:25.176Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini log_errors
+2023-12-12T18:17:25.176Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini magic_quotes_gpc
+2023-12-12T18:17:25.181Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini magic_quotes_runtime
+2023-12-12T18:17:25.181Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini magic_quotes_sybase
+2023-12-12T18:17:25.182Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini max_execution_time
+2023-12-12T18:17:25.182Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini max_input_nesting_level
+2023-12-12T18:17:25.182Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini max_input_time
+2023-12-12T18:17:25.182Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini memory_limit
+2023-12-12T18:17:25.183Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini open_basedir
+2023-12-12T18:17:25.183Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini post_max_size
+2023-12-12T18:17:25.183Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini register_globals
+2023-12-12T18:17:25.183Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini request_order
+2023-12-12T18:17:25.183Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini safe_mode
+2023-12-12T18:17:25.184Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.cookie_httponly
+2023-12-12T18:17:25.184Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.cookie_lifetime
+2023-12-12T18:17:25.184Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.cookie_secure
+2023-12-12T18:17:25.184Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.save_path
+2023-12-12T18:17:25.185Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_cookies
+2023-12-12T18:17:25.187Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_only_cookies
+2023-12-12T18:17:25.187Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_strict_mode
+2023-12-12T18:17:25.188Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini session.use_trans_sid
+2023-12-12T18:17:25.188Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for php.ini upload_max_filesize
+2023-12-12T18:17:25.188Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for potential vulnerability
+2023-12-12T18:17:25.189Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @allowtrace
+2023-12-12T18:17:25.189Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @autodeploy
+2023-12-12T18:17:25.189Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @clientauth
+2023-12-12T18:17:25.190Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @connectiontimeout
+2023-12-12T18:17:25.190Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @deployonstartup
+2023-12-12T18:17:25.190Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @maxhttpheadersize
+2023-12-12T18:17:25.191Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @secure
+2023-12-12T18:17:25.195Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @shutdown
+2023-12-12T18:17:25.195Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_tomcat @xpoweredby
+2023-12-12T18:17:25.195Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_websphere @allowlogoutpageredirecttoanyhost
+2023-12-12T18:17:25.196Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_websphere @displayauthenticationrealm
+2023-12-12T18:17:25.196Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for server.xml_websphere @preservefullyqualifiedreferrerurl
+2023-12-12T18:17:25.196Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @default-user
+2023-12-12T18:17:25.196Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @display-source-fragment
+2023-12-12T18:17:25.197Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @scan-interval
+2023-12-12T18:17:25.197Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @value
+2023-12-12T18:17:25.197Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for standalone.xml @x-powered-by
+2023-12-12T18:17:25.197Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @allowoverride
+2023-12-12T18:17:25.198Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cacherolesincookie
+2023-12-12T18:17:25.198Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @certificatevalidationmode
+2023-12-12T18:17:25.198Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @connectionprotection
+2023-12-12T18:17:25.198Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookieless
+2023-12-12T18:17:25.199Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookieprotection
+2023-12-12T18:17:25.199Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookierequiressl
+2023-12-12T18:17:25.199Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookieslidingexpiration
+2023-12-12T18:17:25.199Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @cookietimeout
+2023-12-12T18:17:25.199Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @createpersistentcookie
+2023-12-12T18:17:25.200Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @debug
+2023-12-12T18:17:25.200Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @decryptionkey
+2023-12-12T18:17:25.200Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enablecrossappredirects
+2023-12-12T18:17:25.200Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enabled
+2023-12-12T18:17:25.201Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enabled[directorybrowse]
+2023-12-12T18:17:25.201Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableeventvalidation
+2023-12-12T18:17:25.201Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableheaderchecking
+2023-12-12T18:17:25.202Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableversionheader
+2023-12-12T18:17:25.202Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @enableviewstatemac
+2023-12-12T18:17:25.202Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @httponlycookies
+2023-12-12T18:17:25.202Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @level
+2023-12-12T18:17:25.203Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxeventdetaillength
+2023-12-12T18:17:25.203Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxeventlengthforsimplemessage
+2023-12-12T18:17:25.203Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxrequestlength
+2023-12-12T18:17:25.203Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @maxsizeforsimplemessage
+2023-12-12T18:17:25.203Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @minrequirednonalphanumericcharacters
+2023-12-12T18:17:25.205Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @minrequiredpasswordlength
+2023-12-12T18:17:25.205Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @mode
+2023-12-12T18:17:25.206Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @name[@credentials]
+2023-12-12T18:17:25.206Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @passwordformat
+2023-12-12T18:17:25.206Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @protection
+2023-12-12T18:17:25.206Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @requestvalidationmode
+2023-12-12T18:17:25.207Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @requiressl
+2023-12-12T18:17:25.207Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @requiressl[@authentication]
+2023-12-12T18:17:25.207Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @slidingexpiration
+2023-12-12T18:17:25.207Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @statuscode
+2023-12-12T18:17:25.208Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @timeout
+2023-12-12T18:17:25.208Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @type
+2023-12-12T18:17:25.211Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @username[@identity]
+2023-12-12T18:17:25.211Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @users
+2023-12-12T18:17:25.212Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @useunsafeheaderparsing
+2023-12-12T18:17:25.212Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @validaterequest
+2023-12-12T18:17:25.212Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @validation
+2023-12-12T18:17:25.212Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @validationkey
+2023-12-12T18:17:25.212Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value
+2023-12-12T18:17:25.213Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[@accesscontrolalloworiginheader]
+2023-12-12T18:17:25.213Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[@aspnetcore_environment]
+2023-12-12T18:17:25.213Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[uselegacyencryption]
+2023-12-12T18:17:25.213Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @value[x-frame-options]
+2023-12-12T18:17:25.214Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config @viewstateencryptionmode
+2023-12-12T18:17:25.214Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config ciphervalue[@sessionstate]
+2023-12-12T18:17:25.214Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config remove/@name[documentation]
+2023-12-12T18:17:25.214Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.config remove/@name[x-powered-by]
+2023-12-12T18:17:25.214Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml error-code
+2023-12-12T18:17:25.215Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml http-method
+2023-12-12T18:17:25.215Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml http-only
+2023-12-12T18:17:25.215Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml param-value
+2023-12-12T18:17:25.215Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml secure
+2023-12-12T18:17:25.216Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml session-timeout
+2023-12-12T18:17:25.216Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml tracking-mode
+2023-12-12T18:17:25.216Z [ices.PluginDescriptionService.setIssueDescriptions] WARN Duplicate descriptions for web.xml transport-guarantee
+2023-12-12T18:17:25.216Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was started
+2023-12-12T18:17:25.218Z [y.aiintellij.utils.logging.AiProjectLogger.cleanUp] INFO Clean up logs files was finished
+2023-12-12T18:17:26.409Z [tellij.services.PluginProjectService.createProject] INFO Project created
+2023-12-12T18:17:26.742Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization
+2023-12-12T18:17:26.742Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization
+2023-12-12T18:17:26.743Z [ices.aie.AieInitializer$initialize$1.invokeSuspend] INFO AIE integration isn't initialized, skipping listeners initialization

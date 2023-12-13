@@ -1,0 +1,7 @@
+2023-12-12T18:17:05.521Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state DISABLED
+2023-12-12T18:17:05.526Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project Practice1
+2023-12-12T18:17:05.528Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
+2023-12-12T18:17:05.680Z [ojectContextInitializer.createInfrastructureFacade] INFO isInfrastructureDebug: false
+2023-12-12T18:17:05.681Z [ojectContextInitializer.createInfrastructureFacade] INFO Use port: 53940
+2023-12-12T18:17:05.714Z [ProjectContextInitializer.initializeProjectContext] INFO Plugin context initialized
+2023-12-12T18:17:05.715Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO initializing infrastructure

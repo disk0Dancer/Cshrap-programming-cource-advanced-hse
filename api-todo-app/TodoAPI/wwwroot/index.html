@@ -1,0 +1,144 @@
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Список дел</title>-->
+<!--    <link rel="stylesheet" href="css/site.css" />-->
+<!--</head>-->
+<!--<body>-->
+<!--<h1>Список дел</h1>-->
+<!--<h3>Добавить</h3>-->
+<!--<form id="add-form" action="javascript:void(0);" method="POST">-->
+<!--    <input type="text" id="add-name" placeholder="Новая задача">-->
+<!--    <select id="add-category" name="category"></select>-->
+<!--    <input type="submit" value="Добавить">-->
+<!--</form>-->
+
+<!--<div id="edit-form" style="display: none;">-->
+<!--    <h3>Редактировать</h3>-->
+<!--    <form id="edit-form-inner" action="javascript:void(0);">-->
+<!--        <input type="hidden" id="edit-id">-->
+<!--        <input type="checkbox" id="edit-isComplete">-->
+<!--        <input type="text" id="edit-name">-->
+<!--        <select id="edit-category" name="category"></select>-->
+<!--        <input type="submit" value="Сохранить">-->
+<!--        <a id="close-btn" onclick="closeInput()" aria-label="Закрыть">&#10006;</a>-->
+<!--    </form>-->
+<!--</div>-->
+
+<!--<p id="counter"></p>-->
+
+<!--<table>-->
+<!--    <tr>-->
+<!--        <th>Выполнено?</th>-->
+<!--        <th>Название</th>-->
+<!--        <th>Категория</th>-->
+<!--        <th></th>-->
+<!--        <th></th>-->
+<!--    </tr>-->
+<!--    <tbody id="todos"></tbody>-->
+<!--</table>-->
+
+<!--<script src="js/site.js" asp-append-version="true"></script>-->
+<!--<script type="text/javascript">-->
+<!--    getItems();-->
+<!--    getCategories();-->
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ToDo App</title>
+    <link rel="stylesheet" type="text/css" href="./css/site.css">
+</head>
+<body>
+<h1>ToDo App</h1>
+
+<h2>Add Task</h2>
+<form id="add-form">
+    <div>
+        <label for="add-name">Task:</label>
+        <input type="text" id="add-name" required>
+    </div>
+    <div>
+        <label for="add-category-dropdown">Category:</label>
+        <select id="add-category-dropdown" required></select>
+    </div>
+    <button type="submit">Add</button>
+</form>
+
+<h2 style="display: none;">Edit Task</h2>
+<form id="edit-form" style="display: none;">
+    <input type="hidden" id="edit-id">
+    <div>
+        <label for="edit-name">Task:</label>
+        <input type="text" id="edit-name" required>
+    </div>
+    <div>
+        <label for="edit-category-dropdown">Category:</label>
+        <select id="edit-category-dropdown" required></select>
+    </div>
+    <div>
+        <label for="edit-isComplete">Completed:</label>
+        <input type="checkbox" id="edit-isComplete">
+    </div>
+    <button type="submit">Save</button>
+    <button type="button" onclick="closeInput()">Cancel</button>
+</form>
+
+<h2>Tasks</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Completed</th>
+        <th>Task</th>
+        <th>Category</th>
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody id="todos"></tbody>
+</table>
+
+<h2>Add Category</h2>
+<form id="add-category-form">
+    <div>
+        <label for="add-category-name">Category Name:</label>
+        <input type="text" id="add-category-name" required>
+    </div>
+    <button type="submit">Add</button>
+</form>
+
+<h2 style="display: none;">Edit Category</h2>
+<form id="edit-category-form" style="display: none;">
+    <input type="hidden" id="edit-category-id">
+    <div>
+        <label for="edit-category-name">Category Name:</label>
+        <input type="text" id="edit-category-name" required>
+    </div>
+    <button type="submit">Save</button>
+    <button type="button" onclick="closeCategoryEditForm()">Cancel</button>
+</form>
+
+<h2>Categories</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Category Name</th>
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody id="categories"></tbody>
+</table>
+
+
+
+
+
+<script src="./js/site.js"></script>
+</body>
+</html>
+

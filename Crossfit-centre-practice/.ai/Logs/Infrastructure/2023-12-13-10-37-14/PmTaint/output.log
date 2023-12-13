@@ -1,0 +1,96 @@
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js": [36,33); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js": [8,441); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery/dist/jquery.min.js": [2,2573); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/js/site.js": System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'end')
+   at Esprima.Ast.Range..ctor(Int32 start, Int32 end)
+   at Esprima.JavaScriptParser.Finalize[T](MetaNode meta, T node)
+   at Esprima.JavaScriptParser.ParseProgram(Boolean strict)
+   at PT.PM.JavaScriptParseTreeUst.JavaScriptEsprimaParser.Parse(TextFile sourceFile, TextFile parseUnit, TimeSpan& parseTimeSpan).
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery/dist/jquery.js": [332,61); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js": [4,1891); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/additional-methods.js": [24,64); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/additional-methods.min.js": [4,281); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/jquery.validate.js": [182,31); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [6,1); Unexpected token.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [6,15609); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [6,15609); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [6,1); Unexpected token.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [1244,16); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [1244,16); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": [1248,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": [1248,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.js": [1270,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.js": [1270,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": [6,11679); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": [6,11679); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": [6,12032); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": [6,12032); Unexpected token .
+
+AI.Taint.CLangs version:       not found or not supported
+AI.Taint version:              2.1.20.4858 (02/28/2023 12:03:18)
+OS:                            Unix 11.0.0
+Config:                        RELEASE no debugger, no obfuscation
+Peak virtual/working set:      0 / 0 MB, 64-bit
+
+Scan path or file:             /Users/admin/RiderProjects/Pactice1
+Thread count:                  4
+Finish date:                   12/13/2023 11:13:07
+Matches count:                 173 (12 PM + 161 Taint; 0 suppressed)
+Files count:                   15
+Lines/chars count:             30908 / 1241578
+Patterns count:                872 (218 PM + 654 Taint)
+File time ratio:               00.23%
+ParseTree time ratio:          00.17%
+Ust time ratio:                00.30%
+Match time ratio:              98.44%
+Pattern time ratio:            00.87%
+
+Time elapsed:                  08:49.506
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js": [8,441); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js": [36,33); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/js/site.js": System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'end')
+   at Esprima.Ast.Range..ctor(Int32 start, Int32 end)
+   at Esprima.JavaScriptParser.Finalize[T](MetaNode meta, T node)
+   at Esprima.JavaScriptParser.ParseProgram(Boolean strict)
+   at PT.PM.JavaScriptParseTreeUst.JavaScriptEsprimaParser.Parse(TextFile sourceFile, TextFile parseUnit, TimeSpan& parseTimeSpan).
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery/dist/jquery.min.js": [2,2573); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery/dist/jquery.js": [332,61); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/additional-methods.js": [24,64); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js": [4,1891); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/additional-methods.min.js": [4,281); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [6,1); Unexpected token.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/jquery-validation/dist/jquery.validate.js": [182,31); Unexpected token ILLEGAL.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [1244,16); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": [1244,16); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": [1248,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": [1248,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.js": [1270,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.js": [1270,18); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": [6,11679); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": [6,11679); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": [6,12032); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": [6,12032); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [6,1); Unexpected token.
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [6,15609); Unexpected token .
+ERROR ParsingException in "/Users/admin/RiderProjects/Pactice1/Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [1,1); ParsingException in "Practice1/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": [6,15609); Unexpected token .
+
+AI.Taint.CLangs version:       not found or not supported
+AI.Taint version:              2.1.20.4858 (02/28/2023 12:03:18)
+OS:                            Unix 11.0.0
+Config:                        RELEASE no debugger, no obfuscation
+Peak virtual/working set:      0 / 0 MB, 64-bit
+
+Scan path or file:             /Users/admin/RiderProjects/Pactice1
+Thread count:                  4
+Finish date:                   12/13/2023 11:24:40
+Matches count:                 173 (12 PM + 161 Taint; 0 suppressed)
+Files count:                   15
+Lines/chars count:             30908 / 1241578
+Patterns count:                872 (218 PM + 654 Taint)
+File time ratio:               00.19%
+ParseTree time ratio:          00.31%
+Ust time ratio:                00.48%
+Match time ratio:              97.98%
+Pattern time ratio:            01.04%
+
+Time elapsed:                  08:48.202

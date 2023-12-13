@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Practice1
+build_property.RootNamespace = Practice1
+build_property.ProjectDir = /Users/admin/RiderProjects/Pactice1/Practice1/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/admin/RiderProjects/Pactice1/Practice1
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Home/Denied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Subscription/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vic2NyaXB0aW9uL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Subscription/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vic2NyaXB0aW9uL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Subscription/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vic2NyaXB0aW9uL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Subscription/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vic2NyaXB0aW9uL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Subscription/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3Vic2NyaXB0aW9uL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Tariff/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyaWZmL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Tariff/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyaWZmL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Tariff/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyaWZmL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Tariff/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyaWZmL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Tariff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyaWZmL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Timetable/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGltZXRhYmxlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Timetable/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGltZXRhYmxlL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Timetable/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGltZXRhYmxlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Timetable/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGltZXRhYmxlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Timetable/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGltZXRhYmxlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Training/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmcvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Training/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmcvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Training/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmcvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Training/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmcvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Training/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmcvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/TrainingFormat/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmdGb3JtYXQvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/TrainingFormat/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmdGb3JtYXQvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/TrainingFormat/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmdGb3JtYXQvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/TrainingFormat/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmdGb3JtYXQvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/TrainingFormat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhaW5pbmdGb3JtYXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/RiderProjects/Pactice1/Practice1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-alnjc3t4uc
